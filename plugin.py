@@ -8,6 +8,7 @@ from qgis.PyQt.QtWidgets import (
     QTableWidgetItem, QHeaderView, QHBoxLayout, QComboBox, QPushButton, 
     QSpinBox, QTextEdit
 )
+from qgis.core import Qgis
 from qgis.PyQt.QtGui import QIcon, QColor
 from qgis.core import QgsProject, QgsWkbTypes, QgsMapLayer, Qgis, QgsField, edit, QgsCoordinateReferenceSystem, QgsCoordinateTransform
 from qgis.PyQt.QtCore import QVariant, Qt
@@ -68,12 +69,6 @@ class HidroCalcPlugin:
         
         self._init_selection_label()
         
-        self._init_selection_label()
-
-    def _init_actions(self):
-        """Initialize all plugin actions."""
-        # 1. Basic Geometry & Attributes (Start Left)
-        self.add_action("icon_length", "Calcular Comprimento", self.run_length)
         self.add_action("icon_dn", "Definir DN", self.run_dn)
         self.add_action("icon_flow", "Definir Vazão", self.run_flow)
         self.add_action("icon_hf", "Calcular HF (Hazen-Williams)", self.run_hf)
