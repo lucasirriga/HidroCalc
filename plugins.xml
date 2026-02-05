@@ -6,12 +6,12 @@
       <version>1.2</version>
       <qgis_minimum_version>3.0</qgis_minimum_version>
       <homepage>http://homepage</homepage>
-      <file_name>HidroCalc.zip</file_name>
+      <file_name>HidroCalc_1.2.zip</file_name>
       <icon>icon.png</icon>
       <author_name>Lucas Palheta</author_name>
-      <download_url>https://github.com/lucasirriga/HidroCalc/archive/refs/tags/v1.2.zip</download_url>
+      <download_url>https://raw.githubusercontent.com/lucasirriga/HidroCalc/main/releases/HidroCalc_1.2.zip</download_url>
       <date>2026-02-05</date>
-      <timestamp>1770296953</timestamp>
+      <timestamp>1770297215</timestamp>
       <experimental>True</experimental>
       <deprecated>False</deprecated>
       <tracker>http://bugs</tracker>
