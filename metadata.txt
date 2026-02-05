@@ -2,7 +2,7 @@
 name=HidroCalcTool
 qgisMinimumVersion=3.0
 description=FERRAMENTA OFICIAL (Antigo HidroCalc). Calcula comprimento e dimensionamento hidraulico.
-version=1.3.0
+version=1.3.1
 author=Lucas Palheta
 email=lucasps.informes@gmail.com
 about=Plugin para cálculos hidráulicos e modelagem no QGIS.
