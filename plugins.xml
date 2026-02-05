@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <plugins>
-   <pyqgis_plugin name="HidroCalcTool" version="1.3.0">
+   <pyqgis_plugin name="HidroCalcTool" version="1.3.1">
       <description>FERRAMENTA OFICIAL (Antigo HidroCalc). Calcula comprimento e dimensionamento hidraulico.</description>
       <about>Plugin para cÃ¡lculos hidrÃ¡ulicos e modelagem no QGIS.</about>
-      <version>1.3.0</version>
+      <version>1.3.1</version>
       <qgis_minimum_version>3.0</qgis_minimum_version>
       <homepage>https://github.com/lucasirriga/HidroCalc</homepage>
-      <file_name>HidroCalcTool_1.3.0.zip</file_name>
+      <file_name>HidroCalcTool_1.3.1.zip</file_name>
       <icon>icon.png</icon>
       <author_name>Lucas Palheta</author_name>
-      <download_url>https://raw.githubusercontent.com/lucasirriga/HidroCalc/main/releases/HidroCalcTool_1.3.0.zip</download_url>
+      <download_url>https://raw.githubusercontent.com/lucasirriga/HidroCalc/main/releases/HidroCalcTool_1.3.1.zip</download_url>
       <date>2026-02-05</date>
-      <timestamp>1770303998</timestamp>
+      <timestamp>1770304487</timestamp>
       <experimental>True</experimental>
       <deprecated>False</deprecated>
       <tracker>https://github.com/lucasirriga/HidroCalc/issues</tracker>
