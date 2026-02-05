@@ -65,8 +65,8 @@ def generate_repo():
                 file_path = os.path.join(root, file)
                 rel_path = os.path.relpath(file_path, current_dir)
                 
-                # IMPORTANT: Prepend Folder Name
-                arcname = os.path.join(name, rel_path)
+                # IMPORTANT: Prepend Folder Name and Force Forward Slashes
+                arcname = os.path.join(name, rel_path).replace("\\", "/")
                 zipf.write(file_path, arcname)
 
     # 3. Define URLs
