@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Relatório de Tubos</title>
+    <style>
+        /* Estilos Gerais */
+        body {
+            font-family: 'Helvetica', 'Arial', sans-serif;
+            color: #333;
+            margin: 20pt;
+            font-size: 11pt;
+        }
+
+        /* Cabeçalho */
+        .header {
+            text-align: center;
+            margin-bottom: 15pt;
+            padding-bottom: 10pt;
+            border-bottom: 1pt solid #ddd;
+        }
+
+        .logo {
+            margin-bottom: 5pt;
+        }
+
+        .title h1 {
+            margin: 0;
+            font-size: 24pt;
+            color: #2E7D32;
+        }
+
+        .title h2 {
+            margin: 5pt 0 0 0;
+            font-size: 14pt;
+            color: #666;
+            font-weight: 300;
+        }
+
+        /* Caixa de Informações */
+        .info-box {
+            margin-top: 10pt;
+            border: 1pt solid #E0E0E0;
+            padding: 10pt;
+            background-color: #F8F8F8;
+            font-size: 10pt;
+            line-height: 1.4;
+            border-radius: 4px;
+        }
+
+        .info-row {
+            margin-bottom: 2pt;
+        }
+
+        .label {
+            font-weight: bold;
+            color: #1B5E20;
+            display: inline-block;
+            width: 110pt;
+        }
+
+        /* Separador */
+        hr.separator {
+            border: 0;
+            border-top: 2pt solid #2E7D32;
+            margin-top: 10pt;
+            margin-bottom: 10pt;
+        }
+
+        /* Tabela */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15pt;
+            margin-left: auto;
+            margin-right: auto;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        th {
+            background-color: #2E7D32;
+            color: white;
+            padding: 8pt;
+            text-align: center;
+            font-size: 10pt;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 6pt 8pt;
+            border-bottom: 1pt solid #eee;
+            font-size: 10pt;
+            vertical-align: middle;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f5f5f5;
+        }
+
+        /* Linha Total */
+        .total-row td {
+            background-color: #DCEDC8 !important;
+            font-weight: bold;
+            color: #1B5E20;
+            border-top: 2pt solid #2E7D32;
+            border-bottom: 2pt solid #2E7D32;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        
+        .total-row td:first-child {
+            text-align: left !important;
+        }
+
+        /* Rodapé */
+        .footer {
+            margin-top: 30pt;
+            text-align: center;
+            font-size: 8pt;
+            color: #999;
+            border-top: 1pt solid #eee;
+            padding-top: 10pt;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="logo">
+            <!-- Logo placeholder -->
+            <img src="${logo_path}" alt="Logo" height="60">
+        </div>
+        <div class="title">
+            <h1>Relatório de Materiais</h1>
+            <h2>${title_suffix}</h2>
+        </div>
+    </div>
+
+    <div class="info-box">
+        <div class="info-row"><span class="label">Proprietário:</span> ${owner}</div>
+        <div class="info-row"><span class="label">Localidade:</span> ${location}</div>
+        <div class="info-row"><span class="label">Energia:</span> ${power}</div>
+        <div class="info-row"><span class="label">Fonte de Água:</span> ${water} (${sources})</div>
+        
+        <hr class="separator">
+        
+        <div class="info-row"><span class="label">Área Total:</span> ${total_area} ha</div>
+        <div class="info-row"><span class="label">Setores:</span> ${total_sectors}</div>
+        <div class="info-row"><span class="label">Vazão Func.:</span> ${operating_flow} m³/h</div>
+        <div class="info-row"><span class="label">Tempo Total:</span> ${total_time} h</div>
+    </div>
+
+    ${content_table}
+
+    <div class="footer">
+        Gerado por HidroCalc em ${date_str}
+        <br>
+        ${terms}
+    </div>
+
+</body>
+</html>

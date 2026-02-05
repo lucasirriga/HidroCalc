@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Relatório de Tubos</title>
+    <style>
+        /* Estilos Gerais */
+        body {
+            font-family: 'Helvetica', 'Arial', sans-serif;
+            color: #333;
+            margin: 20pt;
+            font-size: 11pt;
+        }
+
+        /* Cabeçalho */
+        .header {
+            text-align: center;
+            margin-bottom: 15pt;
+            padding-bottom: 10pt;
+            border-bottom: 1pt solid #ddd;
+        }
+
+        .logo {
+            margin-bottom: 5pt;
+        }
+
+        .title h1 {
+            margin: 0;
+            font-size: 24pt;
+            color: #2E7D32;
+        }
+
+        .title h2 {
+            margin: 5pt 0 0 0;
+            font-size: 14pt;
+            color: #666;
+            font-weight: 300;
+        }
+
+        /* Caixa de Informações */
+        .info-box {
+            margin-top: 10pt;
+            border: 1pt solid #E0E0E0;
+            padding: 10pt;
+            background-color: #F8F8F8;
+            font-size: 10pt;
+            line-height: 1.4;
+            border-radius: 4px;
+        }
+
+        .info-row {
+            margin-bottom: 2pt;
+        }
+
+        .label {
+            font-weight: bold;
+            color: #1B5E20;
+            display: inline-block;
+            width: 110pt;
+        }
+
+        /* Separador */
+        hr.separator {
+            border: 0;
+            border-top: 2pt solid #2E7D32;
+            margin-top: 10pt;
+            margin-bottom: 10pt;
+        }
+
+        /* Tabela */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15pt;
+            margin-left: auto;
+            margin-right: auto;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        th {
+            background-color: #2E7D32;
+            color: white;
+            padding: 8pt;
+            text-align: center;
+            font-size: 10pt;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 6pt 8pt;
+            border-bottom: 1pt solid #eee;
+            font-size: 10pt;
+            vertical-align: middle;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f5f5f5;
+        }
+
+        /* Linha Total */
+        .total-row td {
+            background-color: #DCEDC8 !important;
+            font-weight: bold;
+            color: #1B5E20;
+            border-top: 2pt solid #2E7D32;
+            border-bottom: 2pt solid #2E7D32;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+
+        .total-row td:first-child {
+            text-align: left !important;
+        }
+
+        /* Rodapé */
+        .footer {
+            margin-top: 20pt;
+            font-size: 8pt;
+            color: #999;
+            text-align: center;
+            border-top: 1pt solid #ddd;
+            padding-top: 10pt;
+        }
+
+        .section-header {
+            margin-top: 20pt;
+            font-size: 14pt;
+            color: #2E7D32;
+            border-bottom: 1pt solid #ccc;
+            padding-bottom: 5pt;
+            font-weight: bold;
+        }
+
+        /* Otimização para Impressão */
+        @media print {
+            body {
+                margin: 0;
+                font-size: 10pt;
+                color: #000;
+            }
+
+            .header,
+            .info-box,
+            table,
+            .footer {
+                box-shadow: none !important;
+                background-color: white !important;
+            }
+
+            .info-box,
+            tr:nth-child(even) {
+                background-color: white !important;
+                border: 0 !important;
+                padding: 0 !important;
+            }
+
+            th {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+                background-color: #2E7D32 !important;
+                color: white !important;
+            }
+
+            .total-row td {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+                background-color: #E8F5E9 !important;
+            }
+
+            .separator {
+                border-color: #000 !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <img src="file:///${logo_path}" class="logo" alt="Logo" width="180">
+        <div class="title">
+            <h1>Relatório de Tubos</h1>
+            <h2>${title_suffix}</h2>
+        </div>
+    </div>
+
+    <div class="info-box">
+        <table style="width: 100%; border: none; box-shadow: none; margin: 0;">
+            <tr style="background-color: transparent;">
+                <td style="width: 50%; vertical-align: top; padding: 0; border: none;">
+                    <div class="info-row"><span class="label">Proprietário:</span> ${owner}</div>
+                    <div class="info-row"><span class="label">Localidade:</span> ${location}</div>
+                    <div class="info-row"><span class="label">Energia:</span> ${power}</div>
+                    <div class="info-row"><span class="label">Fonte Água:</span> ${water}</div>
+                    <div class="info-row"><span class="label">Qtd. Fontes:</span> ${sources}</div>
+                    <div class="info-row"><span class="label">Data:</span> ${date_str}</div>
+                </td>
+                <td style="width: 50%; vertical-align: top; padding: 0; border: none; padding-left: 20pt;">
+                    <div class="info-row"><span class="label">Área Total:</span> ${total_area} ha</div>
+                    <div class="info-row"><span class="label">Total de Setores:</span> ${total_sectors}</div>
+                    <div class="info-row"><span class="label">Vazão de Func.:</span> ${operating_flow} m³/h</div>
+                    <div class="info-row"><span class="label">Tempo Total:</span> ${total_time} h</div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    ${terms_section}
+
+    <hr class="separator">
+
+
+
+    <div class="section-header" style="margin-top: 20pt;">Materiais (Peças)</div>
+    <table>
+        <thead>
+            <tr>
+                <th style="text-align: left;">Descrição</th>
+                <th style="text-align: center;">Qtd</th>
+                <th style="text-align: right;">Valor Unit.</th>
+                <th style="text-align: right;">Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${parts_rows}
+            <tr class="subtotal-row">
+                <td colspan="3" style="text-align: right; background-color: #F1F8E9;">SUBTOTAL MATERIAIS</td>
+                <td style="text-align: right; background-color: #F1F8E9;">R$ ${total_parts}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="section-header" style="margin-top: 20pt;">Serviços</div>
+    <table>
+        <thead>
+            <tr>
+                <th style="text-align: left;">Descrição</th>
+                <th style="text-align: center;">Qtd</th>
+                <th style="text-align: right;">Valor Unit.</th>
+                <th style="text-align: right;">Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${services_rows}
+            <tr class="subtotal-row">
+                <td colspan="3" style="text-align: right; background-color: #F1F8E9;">SUBTOTAL SERVIÇOS</td>
+                <td style="text-align: right; background-color: #F1F8E9;">R$ ${total_services}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <br>
+    <table>
+        <tbody>
+            <tr class="total-row">
+                <td style="text-align: right; width: 75%;">TOTAL GERAL (TUBOS + MATERIAIS + SERVIÇOS)</td>
+                <td style="text-align: right;">R$ ${grand_total}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div style="margin-top: 50pt; text-align: center;">
+        <div style="border-top: 1pt solid #333; width: 60%; margin: 0 auto; padding-top: 5pt;">
+            <strong>Assinatura do Cliente</strong>
+        </div>
+        <div style="margin-top: 10pt; font-size: 9pt; color: #666;">
+            Validade da Proposta: 15 dias
+        </div>
+    </div>
+
+    <div class="footer">
+        Gerado automaticamente pelo plugin HidroCalc em ${date_str}.<br>
+        Tocantins Agropecuária Ltda.
+    </div>
+
+    <div style="page-break-before: always; width: 100%; height: 100%;">
+        <div class="section-header">Mapa do Projeto</div>
+        <div style="text-align: center; margin-top: 10pt; height: 90%;">
+            <img src="file:///${map_image_path}" style="width: 100%; height: auto; border: 1pt solid #ccc;"
+                alt="Mapa do Projeto">
+        </div>
+    </div>
+</body>
+
+</html>

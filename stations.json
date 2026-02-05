@@ -1,0 +1,4314 @@
+[
+    {
+        "code": "A422",
+        "name": "ABROLHOS",
+        "lat": -17.96305555,
+        "lon": -38.70333333,
+        "uf": "BA"
+    },
+    {
+        "code": "A360",
+        "name": "ACARAU",
+        "lat": -3.1211111,
+        "lon": -40.08722221,
+        "uf": "CE"
+    },
+    {
+        "code": "B828",
+        "name": "ACEGUA",
+        "lat": -31.87472221,
+        "lon": -54.11972221,
+        "uf": "RS"
+    },
+    {
+        "code": "A657",
+        "name": "AFONSO CLAUDIO",
+        "lat": -20.10416666,
+        "lon": -41.10694444,
+        "uf": "ES"
+    },
+    {
+        "code": "A908",
+        "name": "AGUA BOA",
+        "lat": -14.01638888,
+        "lon": -52.21166666,
+        "uf": "MT"
+    },
+    {
+        "code": "A756",
+        "name": "AGUA CLARA",
+        "lat": -20.44444444,
+        "lon": -52.87583332,
+        "uf": "MS"
+    },
+    {
+        "code": "S733",
+        "name": "AGUA CLARA (FAZ. PELEJA)",
+        "lat": -19.774306,
+        "lon": -53.273982,
+        "uf": "MS"
+    },
+    {
+        "code": "A045",
+        "name": "AGUAS EMENDADAS",
+        "lat": -15.59638888,
+        "lon": -47.62583332,
+        "uf": "DF"
+    },
+    {
+        "code": "A549",
+        "name": "AGUAS VERMELHAS",
+        "lat": -15.75166666,
+        "lon": -41.45777777,
+        "uf": "MG"
+    },
+    {
+        "code": "A534",
+        "name": "AIMORES",
+        "lat": -19.53277777,
+        "lon": -41.09083333,
+        "uf": "MG"
+    },
+    {
+        "code": "S731",
+        "name": "ALCINOPOLIS (FAZ. VALE DO CEDRO)",
+        "lat": -18.052175,
+        "lon": -53.845593,
+        "uf": "MS"
+    },
+    {
+        "code": "A617",
+        "name": "ALEGRE",
+        "lat": -20.75055555,
+        "lon": -41.48888888,
+        "uf": "ES"
+    },
+    {
+        "code": "A826",
+        "name": "ALEGRETE",
+        "lat": -29.70916666,
+        "lon": -55.52555554,
+        "uf": "RS"
+    },
+    {
+        "code": "A053",
+        "name": "ALMAS",
+        "lat": -11.28416666,
+        "lon": -47.21222222,
+        "uf": "TO"
+    },
+    {
+        "code": "A508",
+        "name": "ALMENARA",
+        "lat": -16.16666666,
+        "lon": -40.68777777,
+        "uf": "MG"
+    },
+    {
+        "code": "A924",
+        "name": "ALTA FLORESTA",
+        "lat": -10.07722221,
+        "lon": -56.17916666,
+        "uf": "MT"
+    },
+    {
+        "code": "A253",
+        "name": "ALTAMIRA",
+        "lat": -3.26999999,
+        "lon": -52.39472221,
+        "uf": "PA"
+    },
+    {
+        "code": "A909",
+        "name": "ALTO ARAGUAIA",
+        "lat": -17.33944444,
+        "lon": -53.22444443,
+        "uf": "MT"
+    },
+    {
+        "code": "A024",
+        "name": "ALTO PARAISO DE GOIAS",
+        "lat": -14.13305554,
+        "lon": -47.52333332,
+        "uf": "GO"
+    },
+    {
+        "code": "A223",
+        "name": "ALTO PARNAIBA",
+        "lat": -9.10833333,
+        "lon": -45.93194443,
+        "uf": "MA"
+    },
+    {
+        "code": "A934",
+        "name": "ALTO TAQUARI",
+        "lat": -17.8411111,
+        "lon": -53.28944444,
+        "uf": "MT"
+    },
+    {
+        "code": "A336",
+        "name": "ALVORADA DO GURGUEIA",
+        "lat": -8.37638888,
+        "lon": -43.85944444,
+        "uf": "PI"
+    },
+    {
+        "code": "A750",
+        "name": "AMAMBAI",
+        "lat": -23.0025,
+        "lon": -55.32944443,
+        "uf": "MS"
+    },
+    {
+        "code": "A434",
+        "name": "AMARGOSA",
+        "lat": -13.00944444,
+        "lon": -39.61694443,
+        "uf": "BA"
+    },
+    {
+        "code": "S736",
+        "name": "ANAURILANDIA (FAZ. SANTO ANDRE)",
+        "lat": -22.046806,
+        "lon": -52.897545,
+        "uf": "MS"
+    },
+    {
+        "code": "S701",
+        "name": "ANGELICA",
+        "lat": -22.14805555,
+        "lon": -53.76361111,
+        "uf": "MS"
+    },
+    {
+        "code": "A377",
+        "name": "ANGICAL DO PIAUI",
+        "lat": -6.08944444,
+        "lon": -42.72749999,
+        "uf": "PI"
+    },
+    {
+        "code": "A628",
+        "name": "ANGRA DOS REIS",
+        "lat": -22.97555554,
+        "lon": -44.30333333,
+        "uf": "RJ"
+    },
+    {
+        "code": "A910",
+        "name": "APIACAS",
+        "lat": -9.56333333,
+        "lon": -57.3936111,
+        "uf": "MT"
+    },
+    {
+        "code": "A340",
+        "name": "APODI",
+        "lat": -5.62666666,
+        "lon": -37.815,
+        "uf": "RN"
+    },
+    {
+        "code": "A113",
+        "name": "APUI",
+        "lat": -7.20555555,
+        "lon": -59.8886111,
+        "uf": "AM"
+    },
+    {
+        "code": "A719",
+        "name": "AQUIDAUANA",
+        "lat": -20.47555554,
+        "lon": -55.78388888,
+        "uf": "MS"
+    },
+    {
+        "code": "S729",
+        "name": "AQUIDAUANA (FAZ. BARRANCO ALTO)",
+        "lat": -19.573766,
+        "lon": -56.155409,
+        "uf": "MS"
+    },
+    {
+        "code": "A409",
+        "name": "ARACAJU",
+        "lat": -10.9525,
+        "lon": -37.05444444,
+        "uf": "SE"
+    },
+    {
+        "code": "A566",
+        "name": "ARACUAI",
+        "lat": -16.84888888,
+        "lon": -42.03527777,
+        "uf": "MG"
+    },
+    {
+        "code": "A013",
+        "name": "ARAGARCAS",
+        "lat": -15.90277777,
+        "lon": -52.24527777,
+        "uf": "GO"
+    },
+    {
+        "code": "A054",
+        "name": "ARAGUACU",
+        "lat": -12.59222221,
+        "lon": -49.5286111,
+        "uf": "TO"
+    },
+    {
+        "code": "A021",
+        "name": "ARAGUAINA",
+        "lat": -7.10388888,
+        "lon": -48.20111111,
+        "uf": "TO"
+    },
+    {
+        "code": "A044",
+        "name": "ARAGUATINS",
+        "lat": -5.6436111,
+        "lon": -48.11194444,
+        "uf": "TO"
+    },
+    {
+        "code": "S702",
+        "name": "ARAL MOREIRA",
+        "lat": -22.955,
+        "lon": -55.6261111,
+        "uf": "MS"
+    },
+    {
+        "code": "A353",
+        "name": "ARAPIRACA",
+        "lat": -9.80444444,
+        "lon": -36.61916666,
+        "uf": "AL"
+    },
+    {
+        "code": "A867",
+        "name": "ARARANGUA",
+        "lat": -28.931353,
+        "lon": -49.49792,
+        "uf": "SC"
+    },
+    {
+        "code": "A505",
+        "name": "ARAXA",
+        "lat": -19.60583333,
+        "lon": -46.94972221,
+        "uf": "MG"
+    },
+    {
+        "code": "A309",
+        "name": "ARCO VERDE",
+        "lat": -8.4336111,
+        "lon": -37.05555555,
+        "uf": "PE"
+    },
+    {
+        "code": "A310",
+        "name": "AREIA",
+        "lat": -6.97555554,
+        "lon": -35.71805554,
+        "uf": "PB"
+    },
+    {
+        "code": "A940",
+        "name": "ARIQUEMES",
+        "lat": -9.94888888,
+        "lon": -62.96194444,
+        "uf": "RO"
+    },
+    {
+        "code": "A736",
+        "name": "ARIRANHA",
+        "lat": -21.13305554,
+        "lon": -48.84055555,
+        "uf": "SP"
+    },
+    {
+        "code": "A606",
+        "name": "ARRAIAL DO CABO",
+        "lat": -22.97527777,
+        "lon": -42.02138888,
+        "uf": "RJ"
+    },
+    {
+        "code": "A120",
+        "name": "AUTAZES",
+        "lat": -3.58333333,
+        "lon": -59.12944443,
+        "uf": "AM"
+    },
+    {
+        "code": "A725",
+        "name": "AVARE",
+        "lat": -23.10166666,
+        "lon": -48.9411111,
+        "uf": "SP"
+    },
+    {
+        "code": "A220",
+        "name": "BACABAL",
+        "lat": -4.24305555,
+        "lon": -44.79499999,
+        "uf": "MA"
+    },
+    {
+        "code": "A827",
+        "name": "BAGE",
+        "lat": -31.34777777,
+        "lon": -54.01333333,
+        "uf": "RS"
+    },
+    {
+        "code": "B827",
+        "name": "BAGE - CENTRO",
+        "lat": -31.30555555,
+        "lon": -54.01333333,
+        "uf": "RS"
+    },
+    {
+        "code": "A375",
+        "name": "BAIXA GRANDE DO RIBEIRO",
+        "lat": -8.333531,
+        "lon": -45.094625,
+        "uf": "PI"
+    },
+    {
+        "code": "A204",
+        "name": "BALSAS",
+        "lat": -7.45555555,
+        "lon": -46.02749999,
+        "uf": "MA"
+    },
+    {
+        "code": "A565",
+        "name": "BAMBUI",
+        "lat": -20.0311111,
+        "lon": -46.00888888,
+        "uf": "MG"
+    },
+    {
+        "code": "S703",
+        "name": "BANDEIRANTES",
+        "lat": -19.94555555,
+        "lon": -54.3686111,
+        "uf": "MS"
+    },
+    {
+        "code": "A502",
+        "name": "BARBACENA",
+        "lat": -21.22833332,
+        "lon": -43.76777777,
+        "uf": "MG"
+    },
+    {
+        "code": "A315",
+        "name": "BARBALHA",
+        "lat": -7.30083333,
+        "lon": -39.2711111,
+        "uf": "CE"
+    },
+    {
+        "code": "A128",
+        "name": "BARCELOS",
+        "lat": -0.98722221,
+        "lon": -62.92416666,
+        "uf": "AM"
+    },
+    {
+        "code": "A429",
+        "name": "BARRA",
+        "lat": -11.08472221,
+        "lon": -43.13888888,
+        "uf": "BA"
+    },
+    {
+        "code": "A741",
+        "name": "BARRA BONITA",
+        "lat": -22.4711111,
+        "lon": -48.5575,
+        "uf": "SP"
+    },
+    {
+        "code": "A221",
+        "name": "BARRA DO CORDA",
+        "lat": -5.50666666,
+        "lon": -45.23694444,
+        "uf": "MA"
+    },
+    {
+        "code": "A746",
+        "name": "BARRA DO TURVO",
+        "lat": -24.96277777,
+        "lon": -48.41638888,
+        "uf": "SP"
+    },
+    {
+        "code": "A402",
+        "name": "BARREIRAS",
+        "lat": -12.12472221,
+        "lon": -45.02694443,
+        "uf": "BA"
+    },
+    {
+        "code": "A748",
+        "name": "BARRETOS",
+        "lat": -20.55916666,
+        "lon": -48.54499999,
+        "uf": "SP"
+    },
+    {
+        "code": "A755",
+        "name": "BARUERI",
+        "lat": -23.52388888,
+        "lon": -46.86944443,
+        "uf": "SP"
+    },
+    {
+        "code": "A759",
+        "name": "BATAGUASSU",
+        "lat": -21.75,
+        "lon": -52.47138888,
+        "uf": "MS"
+    },
+    {
+        "code": "A705",
+        "name": "BAURU",
+        "lat": -22.35805555,
+        "lon": -49.02888888,
+        "uf": "SP"
+    },
+    {
+        "code": "A764",
+        "name": "BEBEDOURO",
+        "lat": -20.94805555,
+        "lon": -48.47138888,
+        "uf": "SP"
+    },
+    {
+        "code": "A201",
+        "name": "BELEM",
+        "lat": -1.411228,
+        "lon": -48.439512,
+        "uf": "PA"
+    },
+    {
+        "code": "A447",
+        "name": "BELMONTE",
+        "lat": -16.08805555,
+        "lon": -39.21527777,
+        "uf": "BA"
+    },
+    {
+        "code": "F501",
+        "name": "BELO HORIZONTE - CERCADINHO",
+        "lat": -19.97999999,
+        "lon": -43.95861111,
+        "uf": "MG"
+    },
+    {
+        "code": "A521",
+        "name": "BELO HORIZONTE - PAMPULHA",
+        "lat": -19.88388888,
+        "lon": -43.96944443,
+        "uf": "MG"
+    },
+    {
+        "code": "A572",
+        "name": "BELO HORIZONTE - SANTO AGOSTINHO",
+        "lat": -19.93388888,
+        "lon": -43.95222222,
+        "uf": "MG"
+    },
+    {
+        "code": "A840",
+        "name": "BENTO GONCALVES",
+        "lat": -29.16444444,
+        "lon": -51.53416666,
+        "uf": "RS"
+    },
+    {
+        "code": "A765",
+        "name": "BERTIOGA",
+        "lat": -23.84472221,
+        "lon": -46.14333333,
+        "uf": "SP"
+    },
+    {
+        "code": "A135",
+        "name": "BOA VISTA",
+        "lat": 2.81694443,
+        "lon": -60.69083333,
+        "uf": "RR"
+    },
+    {
+        "code": "A110",
+        "name": "BOCA DO ACRE",
+        "lat": -8.77666666,
+        "lon": -67.33249999,
+        "uf": "AM"
+    },
+    {
+        "code": "A845",
+        "name": "BOM JARDIM DA SERRA - MORRO DA IGREJA",
+        "lat": -28.12694443,
+        "lon": -49.47972221,
+        "uf": "SC"
+    },
+    {
+        "code": "A418",
+        "name": "BOM JESUS DA LAPA",
+        "lat": -13.25111111,
+        "lon": -43.40527777,
+        "uf": "BA"
+    },
+    {
+        "code": "A326",
+        "name": "BOM JESUS DO PIAUI",
+        "lat": -9.07999999,
+        "lon": -44.32777777,
+        "uf": "PI"
+    },
+    {
+        "code": "S704",
+        "name": "BONITO",
+        "lat": -21.24666666,
+        "lon": -56.45055555,
+        "uf": "MS"
+    },
+    {
+        "code": "A226",
+        "name": "BRAGANCA",
+        "lat": -1.05583333,
+        "lon": -46.78277777,
+        "uf": "PA"
+    },
+    {
+        "code": "A744",
+        "name": "BRAGANCA PAULISTA",
+        "lat": -22.94916666,
+        "lon": -46.5261111,
+        "uf": "SP"
+    },
+    {
+        "code": "A001",
+        "name": "BRASILIA",
+        "lat": -15.78944444,
+        "lon": -47.92583332,
+        "uf": "DF"
+    },
+    {
+        "code": "A927",
+        "name": "BRASNORTE (NOVO MUNDO)",
+        "lat": -12.52194443,
+        "lon": -58.23138888,
+        "uf": "MT"
+    },
+    {
+        "code": "A042",
+        "name": "BRAZLANDIA",
+        "lat": -15.59972221,
+        "lon": -48.1311111,
+        "uf": "DF"
+    },
+    {
+        "code": "A421",
+        "name": "BREJO GRANDE",
+        "lat": -10.47388888,
+        "lon": -36.48194443,
+        "uf": "SE"
+    },
+    {
+        "code": "A228",
+        "name": "BREVES",
+        "lat": -1.68027777,
+        "lon": -50.47805554,
+        "uf": "PA"
+    },
+    {
+        "code": "A433",
+        "name": "BRUMADO",
+        "lat": -14.18194443,
+        "lon": -41.67222221,
+        "uf": "BA"
+    },
+    {
+        "code": "A238",
+        "name": "BURITICUPU",
+        "lat": -4.32055554,
+        "lon": -46.44944444,
+        "uf": "MA"
+    },
+    {
+        "code": "A432",
+        "name": "BURITIRAMA",
+        "lat": -10.72305554,
+        "lon": -43.65111111,
+        "uf": "BA"
+    },
+    {
+        "code": "A544",
+        "name": "BURITIS",
+        "lat": -15.52416666,
+        "lon": -46.43555555,
+        "uf": "MG"
+    },
+    {
+        "code": "S706",
+        "name": "CAARAPO",
+        "lat": -22.65694444,
+        "lon": -54.81944443,
+        "uf": "MS"
+    },
+    {
+        "code": "A348",
+        "name": "CABACEIRAS",
+        "lat": -7.48333333,
+        "lon": -36.28638888,
+        "uf": "PB"
+    },
+    {
+        "code": "A329",
+        "name": "CABROBO",
+        "lat": -8.50388888,
+        "lon": -39.31527777,
+        "uf": "PE"
+    },
+    {
+        "code": "A859",
+        "name": "CACADOR",
+        "lat": -26.81916666,
+        "lon": -50.98555555,
+        "uf": "SC"
+    },
+    {
+        "code": "A812",
+        "name": "CACAPAVA DO SUL",
+        "lat": -30.54527777,
+        "lon": -53.46694443,
+        "uf": "RS"
+    },
+    {
+        "code": "B822",
+        "name": "CACHOEIRA DO SUL",
+        "lat": -30.01833332,
+        "lon": -52.93888888,
+        "uf": "RS"
+    },
+    {
+        "code": "A769",
+        "name": "CACHOEIRA PAULISTA",
+        "lat": -22.68888888,
+        "lon": -45.00555555,
+        "uf": "SP"
+    },
+    {
+        "code": "B808",
+        "name": "CACHOEIRINHA",
+        "lat": -29.95138888,
+        "lon": -51.12416666,
+        "uf": "RS"
+    },
+    {
+        "code": "A939",
+        "name": "CACOAL",
+        "lat": -11.44583333,
+        "lon": -61.43416666,
+        "uf": "RO"
+    },
+    {
+        "code": "A023",
+        "name": "CAIAPONIA",
+        "lat": -16.96694443,
+        "lon": -51.81749999,
+        "uf": "GO"
+    },
+    {
+        "code": "A316",
+        "name": "CAICO",
+        "lat": -6.46749999,
+        "lon": -37.08499999,
+        "uf": "RN"
+    },
+    {
+        "code": "A344",
+        "name": "CALCANHAR",
+        "lat": -5.16,
+        "lon": -35.48749999,
+        "uf": "RN"
+    },
+    {
+        "code": "A530",
+        "name": "CALDAS",
+        "lat": -21.91805554,
+        "lon": -46.38305554,
+        "uf": "MG"
+    },
+    {
+        "code": "S707",
+        "name": "CAMAPUA",
+        "lat": -19.58749999,
+        "lon": -54.02999999,
+        "uf": "MS"
+    },
+    {
+        "code": "A352",
+        "name": "CAMARATUBA",
+        "lat": -6.56194444,
+        "lon": -35.13527777,
+        "uf": "PB"
+    },
+    {
+        "code": "A897",
+        "name": "CAMBARA DO SUL",
+        "lat": -29.04916666,
+        "lon": -50.14972221,
+        "uf": "RS"
+    },
+    {
+        "code": "A604",
+        "name": "CAMBUCI",
+        "lat": -21.58749999,
+        "lon": -41.95833333,
+        "uf": "RJ"
+    },
+    {
+        "code": "A236",
+        "name": "CAMETA",
+        "lat": -2.23972221,
+        "lon": -49.49972221,
+        "uf": "PA"
+    },
+    {
+        "code": "B803",
+        "name": "CAMPINA DA LAGOA",
+        "lat": -24.57083332,
+        "lon": -52.80027777,
+        "uf": "PR"
+    },
+    {
+        "code": "A313",
+        "name": "CAMPINA GRANDE",
+        "lat": -7.22555554,
+        "lon": -35.90472222,
+        "uf": "PB"
+    },
+    {
+        "code": "A519",
+        "name": "CAMPINA VERDE",
+        "lat": -19.53916666,
+        "lon": -49.51805554,
+        "uf": "MG"
+    },
+    {
+        "code": "A884",
+        "name": "CAMPO BOM",
+        "lat": -29.67416666,
+        "lon": -51.06416666,
+        "uf": "RS"
+    },
+    {
+        "code": "A702",
+        "name": "CAMPO GRANDE",
+        "lat": -20.44722221,
+        "lon": -54.72249999,
+        "uf": "MS"
+    },
+    {
+        "code": "A376",
+        "name": "CAMPO MAIOR",
+        "lat": -4.86416666,
+        "lon": -42.14555555,
+        "uf": "PI"
+    },
+    {
+        "code": "A905",
+        "name": "CAMPO NOVO DOS PARECIS",
+        "lat": -13.78583333,
+        "lon": -57.8386111,
+        "uf": "MT"
+    },
+    {
+        "code": "A912",
+        "name": "CAMPO VERDE",
+        "lat": -15.55888888,
+        "lon": -55.17944443,
+        "uf": "MT"
+    },
+    {
+        "code": "A706",
+        "name": "CAMPOS DO JORDAO",
+        "lat": -22.75027777,
+        "lon": -45.60388888,
+        "uf": "SP"
+    },
+    {
+        "code": "A607",
+        "name": "CAMPOS DOS GOYTACAZES",
+        "lat": -21.71472222,
+        "lon": -41.34388888,
+        "uf": "RJ"
+    },
+    {
+        "code": "A620",
+        "name": "CAMPOS DOS GOYTACAZES - SAO TOME",
+        "lat": -22.04166666,
+        "lon": -41.05166666,
+        "uf": "RJ"
+    },
+    {
+        "code": "A043",
+        "name": "CAMPOS LINDOS",
+        "lat": -8.15472222,
+        "lon": -46.63944444,
+        "uf": "TO"
+    },
+    {
+        "code": "A898",
+        "name": "CAMPOS NOVOS",
+        "lat": -27.3886111,
+        "lon": -51.21583333,
+        "uf": "SC"
+    },
+    {
+        "code": "A347",
+        "name": "CAMPOS SALES",
+        "lat": -7.07777777,
+        "lon": -40.36277777,
+        "uf": "CE"
+    },
+    {
+        "code": "A879",
+        "name": "CANELA",
+        "lat": -29.36888888,
+        "lon": -50.82722221,
+        "uf": "RS"
+    },
+    {
+        "code": "A811",
+        "name": "CANGUCU",
+        "lat": -31.40333333,
+        "lon": -52.70083333,
+        "uf": "RS"
+    },
+    {
+        "code": "A365",
+        "name": "CANTO DO BURITI",
+        "lat": -8.11805554,
+        "lon": -42.97583332,
+        "uf": "PI"
+    },
+    {
+        "code": "A541",
+        "name": "CAPELINHA",
+        "lat": -17.70555555,
+        "lon": -42.38916666,
+        "uf": "MG"
+    },
+    {
+        "code": "A248",
+        "name": "CAPITAO POCO",
+        "lat": -1.73472221,
+        "lon": -47.0575,
+        "uf": "PA"
+    },
+    {
+        "code": "A337",
+        "name": "CARACOL",
+        "lat": -9.28583333,
+        "lon": -43.32444443,
+        "uf": "PI"
+    },
+    {
+        "code": "S730",
+        "name": "CARACOL (FAZ. OURO E PRATA)",
+        "lat": -21.854199,
+        "lon": -56.868788,
+        "uf": "MS"
+    },
+    {
+        "code": "A554",
+        "name": "CARATINGA",
+        "lat": -19.73583333,
+        "lon": -42.13722221,
+        "uf": "MG"
+    },
+    {
+        "code": "A405",
+        "name": "CARAVELAS",
+        "lat": -17.73944444,
+        "lon": -39.25861111,
+        "uf": "BA"
+    },
+    {
+        "code": "A926",
+        "name": "CARLINDA",
+        "lat": -9.97055554,
+        "lon": -55.82749999,
+        "uf": "MT"
+    },
+    {
+        "code": "A629",
+        "name": "CARMO",
+        "lat": -21.9386111,
+        "lon": -42.60083333,
+        "uf": "RJ"
+    },
+    {
+        "code": "A205",
+        "name": "CAROLINA",
+        "lat": -7.33722221,
+        "lon": -47.45972222,
+        "uf": "MA"
+    },
+    {
+        "code": "A341",
+        "name": "CARUARU",
+        "lat": -8.35611111,
+        "lon": -36.02833332,
+        "uf": "PE"
+    },
+    {
+        "code": "A738",
+        "name": "CASA BRANCA",
+        "lat": -21.78055554,
+        "lon": -47.07527777,
+        "uf": "SP"
+    },
+    {
+        "code": "A742",
+        "name": "CASSILANDIA",
+        "lat": -19.12249999,
+        "lon": -51.72083332,
+        "uf": "MS"
+    },
+    {
+        "code": "A202",
+        "name": "CASTANHAL",
+        "lat": -1.30083333,
+        "lon": -47.94805555,
+        "uf": "PA"
+    },
+    {
+        "code": "A361",
+        "name": "CASTELO DO PIAUI",
+        "lat": -5.34916666,
+        "lon": -41.51222222,
+        "uf": "PI"
+    },
+    {
+        "code": "A819",
+        "name": "CASTRO",
+        "lat": -24.77999999,
+        "lon": -50.04638888,
+        "uf": "PR"
+    },
+    {
+        "code": "A034",
+        "name": "CATALAO",
+        "lat": -18.15472222,
+        "lon": -47.92749999,
+        "uf": "GO"
+    },
+    {
+        "code": "A237",
+        "name": "CAXIAS",
+        "lat": -4.82138888,
+        "lon": -43.3436111,
+        "uf": "MA"
+    },
+    {
+        "code": "B818",
+        "name": "CAXIAS DO SUL - AEROPORTO",
+        "lat": -29.1961111,
+        "lon": -51.18638888,
+        "uf": "RS"
+    },
+    {
+        "code": "B817",
+        "name": "CAXIAS DO SUL - CRIUVA",
+        "lat": -28.87416666,
+        "lon": -50.97555554,
+        "uf": "RS"
+    },
+    {
+        "code": "A548",
+        "name": "CHAPADA GAUCHA",
+        "lat": -15.30027777,
+        "lon": -45.61749999,
+        "uf": "MG"
+    },
+    {
+        "code": "A730",
+        "name": "CHAPADAO DO SUL",
+        "lat": -18.80222222,
+        "lon": -52.6025,
+        "uf": "MS"
+    },
+    {
+        "code": "A206",
+        "name": "CHAPADINHA",
+        "lat": -3.74277777,
+        "lon": -43.35222222,
+        "uf": "MA"
+    },
+    {
+        "code": "A895",
+        "name": "CHAPECO",
+        "lat": -27.0853111,
+        "lon": -52.6357111,
+        "uf": "SC"
+    },
+    {
+        "code": "B812",
+        "name": "CHARQUEADAS",
+        "lat": -29.96555555,
+        "lon": -51.62555554,
+        "uf": "RS"
+    },
+    {
+        "code": "A869",
+        "name": "CIDADE GAUCHA",
+        "lat": -23.35916666,
+        "lon": -52.93194443,
+        "uf": "PR"
+    },
+    {
+        "code": "A876",
+        "name": "CLEVELANDIA",
+        "lat": -26.41722221,
+        "lon": -52.3486111,
+        "uf": "PR"
+    },
+    {
+        "code": "A117",
+        "name": "COARI",
+        "lat": -4.09749999,
+        "lon": -63.14527777,
+        "uf": "AM"
+    },
+    {
+        "code": "A222",
+        "name": "COLINAS",
+        "lat": -6.03305554,
+        "lon": -44.23333333,
+        "uf": "MA"
+    },
+    {
+        "code": "A049",
+        "name": "COLINAS DO TOCANTINS",
+        "lat": -8.09277777,
+        "lon": -48.4786111,
+        "uf": "TO"
+    },
+    {
+        "code": "B806",
+        "name": "COLOMBO",
+        "lat": -25.322464,
+        "lon": -49.157733,
+        "uf": "PR"
+    },
+    {
+        "code": "A913",
+        "name": "COMODORO",
+        "lat": -13.70805555,
+        "lon": -59.7625,
+        "uf": "MT"
+    },
+    {
+        "code": "A520",
+        "name": "CONCEICAO DAS ALAGOAS",
+        "lat": -19.98583333,
+        "lon": -48.15166666,
+        "uf": "MG"
+    },
+    {
+        "code": "A241",
+        "name": "CONCEICAO DO ARAGUAIA",
+        "lat": -8.30361111,
+        "lon": -49.28277777,
+        "uf": "PA"
+    },
+    {
+        "code": "A431",
+        "name": "CONDE",
+        "lat": -12.03583333,
+        "lon": -37.68388888,
+        "uf": "BA"
+    },
+    {
+        "code": "S722",
+        "name": "CORGUINHO (FAZ. MORRO ALEGRE)",
+        "lat": -19.76111111,
+        "lon": -55.32972221,
+        "uf": "MS"
+    },
+    {
+        "code": "A557",
+        "name": "CORONEL PACHECO",
+        "lat": -21.54666666,
+        "lon": -43.26111111,
+        "uf": "MG"
+    },
+    {
+        "code": "A374",
+        "name": "CORRENTE",
+        "lat": -10.42916666,
+        "lon": -45.17305554,
+        "uf": "PI"
+    },
+    {
+        "code": "A416",
+        "name": "CORRENTINA",
+        "lat": -13.33249999,
+        "lon": -44.61749999,
+        "uf": "BA"
+    },
+    {
+        "code": "A724",
+        "name": "CORUMBA",
+        "lat": -18.99666666,
+        "lon": -57.63749999,
+        "uf": "MS"
+    },
+    {
+        "code": "S726",
+        "name": "CORUMBA (ECOA AMOLAR)",
+        "lat": -18.040824,
+        "lon": -57.489877,
+        "uf": "MS"
+    },
+    {
+        "code": "S718",
+        "name": "CORUMBA (FAZ. CAMPO ZELIA)",
+        "lat": -18.6236111,
+        "lon": -55.68666666,
+        "uf": "MS"
+    },
+    {
+        "code": "S727",
+        "name": "CORUMBA (FAZ. ELDORADO DA FORMOSA)",
+        "lat": -17.908087,
+        "lon": -56.5671,
+        "uf": "MS"
+    },
+    {
+        "code": "S721",
+        "name": "CORUMBA (FAZ. SAO CANDIDO)",
+        "lat": -20.08583333,
+        "lon": -57.30611111,
+        "uf": "MS"
+    },
+    {
+        "code": "S725",
+        "name": "CORUMBA (FAZ. SAO FRANCISCO)",
+        "lat": -17.790603,
+        "lon": -55.774991,
+        "uf": "MS"
+    },
+    {
+        "code": "S720",
+        "name": "CORUMBA (FAZ. XARAES)",
+        "lat": -19.49444444,
+        "lon": -56.95777777,
+        "uf": "MS"
+    },
+    {
+        "code": "A355",
+        "name": "CORURIPE",
+        "lat": -10.1286111,
+        "lon": -36.28638888,
+        "uf": "AL"
+    },
+    {
+        "code": "A760",
+        "name": "COSTA RICA",
+        "lat": -18.49277777,
+        "lon": -53.17138888,
+        "uf": "MS"
+    },
+    {
+        "code": "A919",
+        "name": "COTRIGUACU",
+        "lat": -9.90638888,
+        "lon": -58.57222221,
+        "uf": "MT"
+    },
+    {
+        "code": "A720",
+        "name": "COXIM",
+        "lat": -18.51222222,
+        "lon": -54.7361111,
+        "uf": "MS"
+    },
+    {
+        "code": "A342",
+        "name": "CRATEUS",
+        "lat": -5.18666666,
+        "lon": -40.67222221,
+        "uf": "CE"
+    },
+    {
+        "code": "A036",
+        "name": "CRISTALINA",
+        "lat": -16.78499999,
+        "lon": -47.61305555,
+        "uf": "GO"
+    },
+    {
+        "code": "A056",
+        "name": "CRISTALINA (FAZENDA SANTA MONICA)",
+        "lat": -16.39944444,
+        "lon": -47.62583332,
+        "uf": "GO"
+    },
+    {
+        "code": "A853",
+        "name": "CRUZ ALTA",
+        "lat": -28.60333333,
+        "lon": -53.6736111,
+        "uf": "RS"
+    },
+    {
+        "code": "A406",
+        "name": "CRUZ DAS ALMAS",
+        "lat": -12.67555554,
+        "lon": -39.08944444,
+        "uf": "BA"
+    },
+    {
+        "code": "A108",
+        "name": "CRUZEIRO DO SUL",
+        "lat": -7.61055555,
+        "lon": -72.6811111,
+        "uf": "AC"
+    },
+    {
+        "code": "A901",
+        "name": "CUIABA",
+        "lat": -15.60694444,
+        "lon": -56.06083333,
+        "uf": "MT"
+    },
+    {
+        "code": "A448",
+        "name": "CURACA",
+        "lat": -9.00138888,
+        "lon": -39.9125,
+        "uf": "BA"
+    },
+    {
+        "code": "A807",
+        "name": "CURITIBA",
+        "lat": -25.4486111,
+        "lon": -49.23055554,
+        "uf": "PR"
+    },
+    {
+        "code": "A860",
+        "name": "CURITIBANOS",
+        "lat": -27.2886111,
+        "lon": -50.60416666,
+        "uf": "SC"
+    },
+    {
+        "code": "A538",
+        "name": "CURVELO",
+        "lat": -18.74777777,
+        "lon": -44.45388888,
+        "uf": "MG"
+    },
+    {
+        "code": "A443",
+        "name": "DELFINO",
+        "lat": -10.455,
+        "lon": -41.20694444,
+        "uf": "BA"
+    },
+    {
+        "code": "A849",
+        "name": "DIAMANTE DO NORTE",
+        "lat": -22.63944444,
+        "lon": -52.89027777,
+        "uf": "PR"
+    },
+    {
+        "code": "A537",
+        "name": "DIAMANTINA",
+        "lat": -18.231052,
+        "lon": -43.648269,
+        "uf": "MG"
+    },
+    {
+        "code": "A038",
+        "name": "DIANOPOLIS",
+        "lat": -11.59444444,
+        "lon": -46.84722221,
+        "uf": "TO"
+    },
+    {
+        "code": "A848",
+        "name": "DIONISIO CERQUEIRA",
+        "lat": -26.286562,
+        "lon": -53.633114,
+        "uf": "SC"
+    },
+    {
+        "code": "A564",
+        "name": "DIVINOPOLIS",
+        "lat": -20.17333332,
+        "lon": -44.87499999,
+        "uf": "MG"
+    },
+    {
+        "code": "A843",
+        "name": "DOIS VIZINHOS",
+        "lat": -25.69916666,
+        "lon": -53.09527777,
+        "uf": "PR"
+    },
+    {
+        "code": "A252",
+        "name": "DOM ELISEU",
+        "lat": -4.28055554,
+        "lon": -47.56388888,
+        "uf": "PA"
+    },
+    {
+        "code": "A881",
+        "name": "DOM PEDRITO",
+        "lat": -31.0025,
+        "lon": -54.61805554,
+        "uf": "RS"
+    },
+    {
+        "code": "A536",
+        "name": "DORES DO INDAIA",
+        "lat": -19.48194443,
+        "lon": -45.59388888,
+        "uf": "MG"
+    },
+    {
+        "code": "A721",
+        "name": "DOURADOS",
+        "lat": -22.19388888,
+        "lon": -54.91138888,
+        "uf": "MS"
+    },
+    {
+        "code": "A762",
+        "name": "DRACENA",
+        "lat": -21.45777777,
+        "lon": -51.55222222,
+        "uf": "SP"
+    },
+    {
+        "code": "A603",
+        "name": "DUQUE DE CAXIAS - XEREM",
+        "lat": -22.58972221,
+        "lon": -43.28222221,
+        "uf": "RJ"
+    },
+    {
+        "code": "A631",
+        "name": "ECOPORANGA",
+        "lat": -18.29138888,
+        "lon": -40.73638888,
+        "uf": "ES"
+    },
+    {
+        "code": "A029",
+        "name": "EDEIA",
+        "lat": -17.33694444,
+        "lon": -49.91472222,
+        "uf": "GO"
+    },
+    {
+        "code": "A109",
+        "name": "EIRUNEPE",
+        "lat": -6.65027777,
+        "lon": -69.8686111,
+        "uf": "AM"
+    },
+    {
+        "code": "A893",
+        "name": "ENCRUZILHADA DO SUL",
+        "lat": -30.54305555,
+        "lon": -52.52472221,
+        "uf": "RS"
+    },
+    {
+        "code": "A140",
+        "name": "EPITACIOLANDIA",
+        "lat": -11.02388888,
+        "lon": -68.73527777,
+        "uf": "AC"
+    },
+    {
+        "code": "A828",
+        "name": "ERECHIM",
+        "lat": -27.65777777,
+        "lon": -52.30583333,
+        "uf": "RS"
+    },
+    {
+        "code": "A543",
+        "name": "ESPINOSA",
+        "lat": -14.91222222,
+        "lon": -42.80861111,
+        "uf": "MG"
+    },
+    {
+        "code": "A224",
+        "name": "ESTREITO",
+        "lat": -6.65333333,
+        "lon": -47.41833332,
+        "uf": "MA"
+    },
+    {
+        "code": "A442",
+        "name": "EUCLIDES DA CUNHA",
+        "lat": -10.53722221,
+        "lon": -38.99666666,
+        "uf": "BA"
+    },
+    {
+        "code": "A217",
+        "name": "FAROL de SANTANA",
+        "lat": -2.27083332,
+        "lon": -43.62416666,
+        "uf": "MA"
+    },
+    {
+        "code": "S708",
+        "name": "FATIMA DO SUL",
+        "lat": -22.30861111,
+        "lon": -54.32583332,
+        "uf": "MS"
+    },
+    {
+        "code": "A138",
+        "name": "FEIJO",
+        "lat": -8.14277777,
+        "lon": -70.3436111,
+        "uf": "AC"
+    },
+    {
+        "code": "A413",
+        "name": "FEIRA DE SANTANA",
+        "lat": -12.1961111,
+        "lon": -38.96749999,
+        "uf": "BA"
+    },
+    {
+        "code": "S732",
+        "name": "FIGUEIRAO (FAZ. WATERLOO)",
+        "lat": -18.74532,
+        "lon": -53.936083,
+        "uf": "MS"
+    },
+    {
+        "code": "A351",
+        "name": "FLORESTA",
+        "lat": -8.59888888,
+        "lon": -38.58416666,
+        "uf": "PE"
+    },
+    {
+        "code": "A535",
+        "name": "FLORESTAL",
+        "lat": -19.88527777,
+        "lon": -44.41694443,
+        "uf": "MG"
+    },
+    {
+        "code": "A311",
+        "name": "FLORIANO",
+        "lat": -6.76138888,
+        "lon": -43.00333333,
+        "uf": "PI"
+    },
+    {
+        "code": "A806",
+        "name": "FLORIANOPOLIS",
+        "lat": -27.6025,
+        "lon": -48.61999999,
+        "uf": "SC"
+    },
+    {
+        "code": "A524",
+        "name": "FORMIGA",
+        "lat": -20.455,
+        "lon": -45.45388888,
+        "uf": "MG"
+    },
+    {
+        "code": "A452",
+        "name": "FORMOSA DO RIO PRETO",
+        "lat": -11.05222222,
+        "lon": -45.20083333,
+        "uf": "BA"
+    },
+    {
+        "code": "A039",
+        "name": "FORMOSO DO ARAGUAIA",
+        "lat": -11.88749999,
+        "lon": -49.60833333,
+        "uf": "TO"
+    },
+    {
+        "code": "A305",
+        "name": "FORTALEZA",
+        "lat": -3.81583333,
+        "lon": -38.53777777,
+        "uf": "CE"
+    },
+    {
+        "code": "A846",
+        "name": "FOZ DO IGUACU",
+        "lat": -25.60194444,
+        "lon": -54.48305554,
+        "uf": "PR"
+    },
+    {
+        "code": "A708",
+        "name": "FRANCA",
+        "lat": -20.58444444,
+        "lon": -47.38249999,
+        "uf": "SP"
+    },
+    {
+        "code": "A854",
+        "name": "FREDERICO WESTPHALEN",
+        "lat": -27.39555555,
+        "lon": -53.42944443,
+        "uf": "RS"
+    },
+    {
+        "code": "A046",
+        "name": "GAMA (PONTE ALTA)",
+        "lat": -15.93527777,
+        "lon": -48.13749999,
+        "uf": "DF"
+    },
+    {
+        "code": "A322",
+        "name": "GARANHUNS",
+        "lat": -8.91083333,
+        "lon": -36.49333333,
+        "uf": "PE"
+    },
+    {
+        "code": "A930",
+        "name": "GAUCHA DO NORTE",
+        "lat": -13.18472221,
+        "lon": -53.2575,
+        "uf": "MT"
+    },
+    {
+        "code": "A875",
+        "name": "GENERAL CARNEIRO",
+        "lat": -26.3986111,
+        "lon": -51.35361111,
+        "uf": "PR"
+    },
+    {
+        "code": "A364",
+        "name": "GILBUES",
+        "lat": -9.87527777,
+        "lon": -45.34583333,
+        "uf": "PI"
+    },
+    {
+        "code": "A022",
+        "name": "GOIANESIA",
+        "lat": -15.22027777,
+        "lon": -48.98999999,
+        "uf": "GO"
+    },
+    {
+        "code": "A002",
+        "name": "GOIANIA",
+        "lat": -16.64277777,
+        "lon": -49.22027777,
+        "uf": "GO"
+    },
+    {
+        "code": "A014",
+        "name": "GOIAS",
+        "lat": -15.93972221,
+        "lon": -50.14138888,
+        "uf": "GO"
+    },
+    {
+        "code": "A825",
+        "name": "GOIOERE",
+        "lat": -24.18388888,
+        "lon": -53.04888888,
+        "uf": "PR"
+    },
+    {
+        "code": "A532",
+        "name": "GOVERNADOR VALADARES",
+        "lat": -18.83027777,
+        "lon": -41.97694443,
+        "uf": "MG"
+    },
+    {
+        "code": "A207",
+        "name": "GRAJAU",
+        "lat": -5.81611111,
+        "lon": -46.16222222,
+        "uf": "MA"
+    },
+    {
+        "code": "A426",
+        "name": "GUANAMBI",
+        "lat": -14.20805555,
+        "lon": -42.74972221,
+        "uf": "BA"
+    },
+    {
+        "code": "A533",
+        "name": "GUANHAES",
+        "lat": -18.78694444,
+        "lon": -42.94305555,
+        "uf": "MG"
+    },
+    {
+        "code": "A314",
+        "name": "GUARAMIRANGA",
+        "lat": -4.22916666,
+        "lon": -38.95888888,
+        "uf": "CE"
+    },
+    {
+        "code": "A906",
+        "name": "GUARANTA DO NORTE",
+        "lat": -9.9525,
+        "lon": -54.89777777,
+        "uf": "MT"
+    },
+    {
+        "code": "A546",
+        "name": "GUARDA-MOR",
+        "lat": -17.56138888,
+        "lon": -47.19916666,
+        "uf": "MG"
+    },
+    {
+        "code": "A932",
+        "name": "GUIRATINGA",
+        "lat": -16.34166666,
+        "lon": -53.76611111,
+        "uf": "MT"
+    },
+    {
+        "code": "A019",
+        "name": "GURUPI",
+        "lat": -11.74499999,
+        "lon": -49.05166666,
+        "uf": "TO"
+    },
+    {
+        "code": "B826",
+        "name": "HERVAL",
+        "lat": -32.01277777,
+        "lon": -53.40305555,
+        "uf": "RS"
+    },
+    {
+        "code": "A112",
+        "name": "HUMAITA",
+        "lat": -7.5525,
+        "lon": -63.07138888,
+        "uf": "AM"
+    },
+    {
+        "code": "A349",
+        "name": "IBIMIRIM",
+        "lat": -8.50944444,
+        "lon": -37.71166666,
+        "uf": "PE"
+    },
+    {
+        "code": "A555",
+        "name": "IBIRITE (ROLA MOCA)",
+        "lat": -20.03138888,
+        "lon": -44.01111111,
+        "uf": "MG"
+    },
+    {
+        "code": "A883",
+        "name": "IBIRUBA",
+        "lat": -28.65333333,
+        "lon": -53.11194444,
+        "uf": "RS"
+    },
+    {
+        "code": "A737",
+        "name": "IBITINGA",
+        "lat": -21.85555555,
+        "lon": -48.79972221,
+        "uf": "SP"
+    },
+    {
+        "code": "A439",
+        "name": "IBOTIRAMA",
+        "lat": -12.19305555,
+        "lon": -43.21333333,
+        "uf": "BA"
+    },
+    {
+        "code": "A824",
+        "name": "ICARAIMA",
+        "lat": -23.39027777,
+        "lon": -53.63583333,
+        "uf": "PR"
+    },
+    {
+        "code": "A712",
+        "name": "IGUAPE",
+        "lat": -24.67166666,
+        "lon": -47.54583333,
+        "uf": "SP"
+    },
+    {
+        "code": "S709",
+        "name": "IGUATEMI",
+        "lat": -23.64444444,
+        "lon": -54.57027777,
+        "uf": "MS"
+    },
+    {
+        "code": "A319",
+        "name": "IGUATU",
+        "lat": -6.39638888,
+        "lon": -39.26888888,
+        "uf": "CE"
+    },
+    {
+        "code": "A410",
+        "name": "ILHEUS",
+        "lat": -14.65888888,
+        "lon": -39.18138888,
+        "uf": "BA"
+    },
+    {
+        "code": "A225",
+        "name": "IMPERATRIZ",
+        "lat": -5.55583333,
+        "lon": -47.45972222,
+        "uf": "MA"
+    },
+    {
+        "code": "A823",
+        "name": "INACIO MARTINS",
+        "lat": -25.56777777,
+        "lon": -51.07805554,
+        "uf": "PR"
+    },
+    {
+        "code": "A817",
+        "name": "INDAIAL",
+        "lat": -26.91361111,
+        "lon": -49.26805554,
+        "uf": "SC"
+    },
+    {
+        "code": "S734",
+        "name": "INOCENCIA (FAZ. RECANTO)",
+        "lat": -19.98796,
+        "lon": -52.139617,
+        "uf": "MS"
+    },
+    {
+        "code": "A372",
+        "name": "IPANGUACU",
+        "lat": -5.53499999,
+        "lon": -36.87222221,
+        "uf": "RN"
+    },
+    {
+        "code": "A713",
+        "name": "IPERO",
+        "lat": -23.4261111,
+        "lon": -47.58555555,
+        "uf": "SP"
+    },
+    {
+        "code": "A445",
+        "name": "IPIAU",
+        "lat": -14.17138888,
+        "lon": -39.69249999,
+        "uf": "BA"
+    },
+    {
+        "code": "A028",
+        "name": "IPORA",
+        "lat": -16.42305554,
+        "lon": -51.14888888,
+        "uf": "GO"
+    },
+    {
+        "code": "A424",
+        "name": "IRECE",
+        "lat": -11.32888888,
+        "lon": -41.86444444,
+        "uf": "BA"
+    },
+    {
+        "code": "A451",
+        "name": "ITABAIANA",
+        "lat": -10.67166666,
+        "lon": -37.47138888,
+        "uf": "SE"
+    },
+    {
+        "code": "A417",
+        "name": "ITABAIANINHA",
+        "lat": -11.27249999,
+        "lon": -37.79499999,
+        "uf": "SE"
+    },
+    {
+        "code": "A408",
+        "name": "ITABERABA",
+        "lat": -12.52416666,
+        "lon": -40.29972221,
+        "uf": "BA"
+    },
+    {
+        "code": "A121",
+        "name": "ITACOATIARA",
+        "lat": -3.13333333,
+        "lon": -58.48277777,
+        "uf": "AM"
+    },
+    {
+        "code": "A231",
+        "name": "ITAITUBA",
+        "lat": -4.27694443,
+        "lon": -55.99305555,
+        "uf": "PA"
+    },
+    {
+        "code": "A868",
+        "name": "ITAJAI",
+        "lat": -26.95083333,
+        "lon": -48.76194444,
+        "uf": "SC"
+    },
+    {
+        "code": "A455",
+        "name": "ITAMARAJU",
+        "lat": -17.00694444,
+        "lon": -39.55805555,
+        "uf": "BA"
+    },
+    {
+        "code": "A550",
+        "name": "ITAOBIM",
+        "lat": -16.57555554,
+        "lon": -41.48555555,
+        "uf": "MG"
+    },
+    {
+        "code": "A015",
+        "name": "ITAPACI",
+        "lat": -14.97972221,
+        "lon": -49.53944444,
+        "uf": "GO"
+    },
+    {
+        "code": "A446",
+        "name": "ITAPETINGA",
+        "lat": -15.24472221,
+        "lon": -40.22944443,
+        "uf": "BA"
+    },
+    {
+        "code": "A714",
+        "name": "ITAPEVA",
+        "lat": -23.98194443,
+        "lon": -48.88583333,
+        "uf": "SP"
+    },
+    {
+        "code": "A359",
+        "name": "ITAPIPOCA",
+        "lat": -3.48416666,
+        "lon": -39.5886111,
+        "uf": "CE"
+    },
+    {
+        "code": "A739",
+        "name": "ITAPIRA",
+        "lat": -22.415,
+        "lon": -46.80527777,
+        "uf": "SP"
+    },
+    {
+        "code": "A851",
+        "name": "ITAPOA",
+        "lat": -26.08138888,
+        "lon": -48.64166666,
+        "uf": "SC"
+    },
+    {
+        "code": "S710",
+        "name": "ITAPORA",
+        "lat": -22.09277777,
+        "lon": -54.79888888,
+        "uf": "MS"
+    },
+    {
+        "code": "A373",
+        "name": "ITAPORANGA",
+        "lat": -7.31833332,
+        "lon": -38.14083333,
+        "uf": "PB"
+    },
+    {
+        "code": "A752",
+        "name": "ITAQUIRAI",
+        "lat": -23.44944444,
+        "lon": -54.18194443,
+        "uf": "MS"
+    },
+    {
+        "code": "A251",
+        "name": "ITAUBAL",
+        "lat": 0.56777777,
+        "lon": -50.8236111,
+        "uf": "AP"
+    },
+    {
+        "code": "A933",
+        "name": "ITIQUIRA",
+        "lat": -17.17499999,
+        "lon": -54.50166666,
+        "uf": "MT"
+    },
+    {
+        "code": "A407",
+        "name": "ITIRUCU",
+        "lat": -13.52777777,
+        "lon": -40.11972221,
+        "uf": "BA"
+    },
+    {
+        "code": "A512",
+        "name": "ITUIUTABA",
+        "lat": -18.95277777,
+        "lon": -49.52499999,
+        "uf": "MG"
+    },
+    {
+        "code": "A035",
+        "name": "ITUMBIARA",
+        "lat": -18.40972222,
+        "lon": -49.19194444,
+        "uf": "GO"
+    },
+    {
+        "code": "A863",
+        "name": "ITUPORANGA",
+        "lat": -27.41833332,
+        "lon": -49.64694444,
+        "uf": "SC"
+    },
+    {
+        "code": "A753",
+        "name": "ITUVERAVA",
+        "lat": -20.35972222,
+        "lon": -47.77527777,
+        "uf": "SP"
+    },
+    {
+        "code": "A818",
+        "name": "IVAI",
+        "lat": -25.01083333,
+        "lon": -50.85388888,
+        "uf": "PR"
+    },
+    {
+        "code": "A709",
+        "name": "IVINHEMA",
+        "lat": -22.30055555,
+        "lon": -53.82277777,
+        "uf": "MS"
+    },
+    {
+        "code": "A440",
+        "name": "JACOBINA",
+        "lat": -11.205,
+        "lon": -40.465,
+        "uf": "BA"
+    },
+    {
+        "code": "A836",
+        "name": "JAGUARAO",
+        "lat": -32.53472221,
+        "lon": -53.37583332,
+        "uf": "RS"
+    },
+    {
+        "code": "A358",
+        "name": "JAGUARIBE",
+        "lat": -5.90555555,
+        "lon": -38.62777777,
+        "uf": "CE"
+    },
+    {
+        "code": "A339",
+        "name": "JAGUARUANA",
+        "lat": -4.83777777,
+        "lon": -37.69972221,
+        "uf": "CE"
+    },
+    {
+        "code": "A733",
+        "name": "JALES",
+        "lat": -20.165,
+        "lon": -50.59499999,
+        "uf": "SP"
+    },
+    {
+        "code": "A559",
+        "name": "JANUARIA",
+        "lat": -15.44805555,
+        "lon": -44.36638888,
+        "uf": "MG"
+    },
+    {
+        "code": "A871",
+        "name": "JAPIRA",
+        "lat": -23.77333332,
+        "lon": -50.18055554,
+        "uf": "PR"
+    },
+    {
+        "code": "A758",
+        "name": "JARDIM",
+        "lat": -21.4786111,
+        "lon": -56.13777777,
+        "uf": "MS"
+    },
+    {
+        "code": "A016",
+        "name": "JATAI",
+        "lat": -17.9236111,
+        "lon": -51.71749999,
+        "uf": "GO"
+    },
+    {
+        "code": "A450",
+        "name": "JEREMOABO",
+        "lat": -10.08083332,
+        "lon": -38.34583333,
+        "uf": "BA"
+    },
+    {
+        "code": "A841",
+        "name": "JOACABA",
+        "lat": -27.16916666,
+        "lon": -51.55888888,
+        "uf": "SC"
+    },
+    {
+        "code": "A320",
+        "name": "JOAO PESSOA",
+        "lat": -7.16527777,
+        "lon": -34.81555555,
+        "uf": "PB"
+    },
+    {
+        "code": "A553",
+        "name": "JOAO PINHEIRO",
+        "lat": -17.78444444,
+        "lon": -46.11944443,
+        "uf": "MG"
+    },
+    {
+        "code": "A821",
+        "name": "JOAQUIM TAVORA",
+        "lat": -23.50527777,
+        "lon": -49.94638888,
+        "uf": "PR"
+    },
+    {
+        "code": "A735",
+        "name": "JOSE BONIFACIO",
+        "lat": -21.08555555,
+        "lon": -49.92027777,
+        "uf": "SP"
+    },
+    {
+        "code": "A914",
+        "name": "JUARA",
+        "lat": -11.28027777,
+        "lon": -57.52666666,
+        "uf": "MT"
+    },
+    {
+        "code": "A920",
+        "name": "JUINA",
+        "lat": -11.37499999,
+        "lon": -58.77472221,
+        "uf": "MT"
+    },
+    {
+        "code": "A518",
+        "name": "JUIZ DE FORA",
+        "lat": -21.76999999,
+        "lon": -43.36444444,
+        "uf": "MG"
+    },
+    {
+        "code": "A749",
+        "name": "JUTI",
+        "lat": -22.85722222,
+        "lon": -54.60555555,
+        "uf": "MS"
+    },
+    {
+        "code": "A111",
+        "name": "LABREA",
+        "lat": -7.26055555,
+        "lon": -64.7886111,
+        "uf": "AM"
+    },
+    {
+        "code": "A865",
+        "name": "LAGES",
+        "lat": -27.80222222,
+        "lon": -50.33555555,
+        "uf": "SC"
+    },
+    {
+        "code": "A055",
+        "name": "LAGOA DA CONFUSAO",
+        "lat": -10.828286,
+        "lon": -49.847882,
+        "uf": "TO"
+    },
+    {
+        "code": "A844",
+        "name": "LAGOA VERMELHA",
+        "lat": -28.222381,
+        "lon": -51.512845,
+        "uf": "RS"
+    },
+    {
+        "code": "S711",
+        "name": "LAGUNA CARAPA",
+        "lat": -22.57527777,
+        "lon": -55.16027777,
+        "uf": "MS"
+    },
+    {
+        "code": "B804",
+        "name": "LARANJEIRAS DO SUL",
+        "lat": -25.37138888,
+        "lon": -52.40083333,
+        "uf": "PR"
+    },
+    {
+        "code": "A425",
+        "name": "LENCOIS",
+        "lat": -12.55777777,
+        "lon": -41.38888888,
+        "uf": "BA"
+    },
+    {
+        "code": "A614",
+        "name": "LINHARES",
+        "lat": -19.35694444,
+        "lon": -40.0686111,
+        "uf": "ES"
+    },
+    {
+        "code": "A727",
+        "name": "LINS",
+        "lat": -21.66611111,
+        "lon": -49.73472221,
+        "uf": "SP"
+    },
+    {
+        "code": "A404",
+        "name": "LUIS EDUARDO MAGALHAES",
+        "lat": -12.1525,
+        "lon": -45.82972221,
+        "uf": "BA"
+    },
+    {
+        "code": "A012",
+        "name": "LUZIANIA",
+        "lat": -16.26055555,
+        "lon": -47.96694443,
+        "uf": "GO"
+    },
+    {
+        "code": "A866",
+        "name": "Laguna  - Farol de Santa Marta",
+        "lat": -28.60444444,
+        "lon": -48.81333333,
+        "uf": "SC"
+    },
+    {
+        "code": "A608",
+        "name": "MACAE",
+        "lat": -22.3761111,
+        "lon": -41.81194444,
+        "uf": "RJ"
+    },
+    {
+        "code": "A412",
+        "name": "MACAJUBA",
+        "lat": -12.13166666,
+        "lon": -40.35416666,
+        "uf": "BA"
+    },
+    {
+        "code": "A249",
+        "name": "MACAPA",
+        "lat": 0.03499999,
+        "lon": -51.08888888,
+        "uf": "AP"
+    },
+    {
+        "code": "A317",
+        "name": "MACAU",
+        "lat": -5.15111111,
+        "lon": -36.57305554,
+        "uf": "RN"
+    },
+    {
+        "code": "A303",
+        "name": "MACEIO",
+        "lat": -9.55111111,
+        "lon": -35.77027777,
+        "uf": "AL"
+    },
+    {
+        "code": "A567",
+        "name": "MACHADO",
+        "lat": -21.68083332,
+        "lon": -45.94444444,
+        "uf": "MG"
+    },
+    {
+        "code": "A864",
+        "name": "MAJOR VIEIRA",
+        "lat": -26.3936111,
+        "lon": -50.36333333,
+        "uf": "SC"
+    },
+    {
+        "code": "A820",
+        "name": "MAL. CANDIDO RONDON",
+        "lat": -24.53333333,
+        "lon": -54.01916666,
+        "uf": "PR"
+    },
+    {
+        "code": "A119",
+        "name": "MANACAPURU",
+        "lat": -3.29472221,
+        "lon": -60.62833332,
+        "uf": "AM"
+    },
+    {
+        "code": "A101",
+        "name": "MANAUS",
+        "lat": -3.10333333,
+        "lon": -60.01638888,
+        "uf": "AM"
+    },
+    {
+        "code": "A556",
+        "name": "MANHUACU",
+        "lat": -20.26333333,
+        "lon": -42.18277777,
+        "uf": "MG"
+    },
+    {
+        "code": "A133",
+        "name": "MANICORE",
+        "lat": -5.7886111,
+        "lon": -61.28833333,
+        "uf": "AM"
+    },
+    {
+        "code": "A540",
+        "name": "MANTENA",
+        "lat": -18.78055554,
+        "lon": -40.98638888,
+        "uf": "MG"
+    },
+    {
+        "code": "A240",
+        "name": "MARABA",
+        "lat": -5.36638888,
+        "lon": -49.05111111,
+        "uf": "PA"
+    },
+    {
+        "code": "A731",
+        "name": "MARACAJU",
+        "lat": -21.60916666,
+        "lon": -55.17749999,
+        "uf": "MS"
+    },
+    {
+        "code": "A438",
+        "name": "MARAU",
+        "lat": -13.90694444,
+        "lon": -38.97222221,
+        "uf": "BA"
+    },
+    {
+        "code": "A137",
+        "name": "MARECHAL THAUMATURGO",
+        "lat": -8.95,
+        "lon": -72.78666666,
+        "uf": "AC"
+    },
+    {
+        "code": "A531",
+        "name": "MARIA DA FE",
+        "lat": -22.31444444,
+        "lon": -45.37305554,
+        "uf": "MG"
+    },
+    {
+        "code": "A041",
+        "name": "MARIANOPOLIS DO TO",
+        "lat": -9.57638888,
+        "lon": -49.72333332,
+        "uf": "TO"
+    },
+    {
+        "code": "A632",
+        "name": "MARILANDIA",
+        "lat": -19.40722222,
+        "lon": -40.53972221,
+        "uf": "ES"
+    },
+    {
+        "code": "A763",
+        "name": "MARILIA",
+        "lat": -22.23527777,
+        "lon": -49.965,
+        "uf": "SP"
+    },
+    {
+        "code": "A835",
+        "name": "MARINGA",
+        "lat": -23.40527777,
+        "lon": -51.93277777,
+        "uf": "PR"
+    },
+    {
+        "code": "A040",
+        "name": "MATEIROS",
+        "lat": -10.43444444,
+        "lon": -45.92194443,
+        "uf": "TO"
+    },
+    {
+        "code": "A122",
+        "name": "MAUES",
+        "lat": -3.39888888,
+        "lon": -57.67388888,
+        "uf": "AM"
+    },
+    {
+        "code": "A209",
+        "name": "MEDICILANDIA",
+        "lat": -3.51083333,
+        "lon": -52.96333333,
+        "uf": "PA"
+    },
+    {
+        "code": "A246",
+        "name": "MINA DO PALITO",
+        "lat": -6.31999999,
+        "lon": -55.78777777,
+        "uf": "PA"
+    },
+    {
+        "code": "B813",
+        "name": "MINAS DO LEAO",
+        "lat": -30.12444443,
+        "lon": -52.05083333,
+        "uf": "RS"
+    },
+    {
+        "code": "A026",
+        "name": "MINEIROS",
+        "lat": -17.45472222,
+        "lon": -52.60111111,
+        "uf": "GO"
+    },
+    {
+        "code": "A722",
+        "name": "MIRANDA",
+        "lat": -20.39555555,
+        "lon": -56.43166666,
+        "uf": "MS"
+    },
+    {
+        "code": "A539",
+        "name": "MOCAMBINHO",
+        "lat": -15.08583333,
+        "lon": -44.01611111,
+        "uf": "MG"
+    },
+    {
+        "code": "A526",
+        "name": "MONTALVANIA",
+        "lat": -14.40833333,
+        "lon": -44.40416666,
+        "uf": "MG"
+    },
+    {
+        "code": "A239",
+        "name": "MONTE ALEGRE",
+        "lat": -2.0,
+        "lon": -54.07638888,
+        "uf": "PA"
+    },
+    {
+        "code": "A032",
+        "name": "MONTE ALEGRE DE GOIAS",
+        "lat": -13.25361111,
+        "lon": -46.89027777,
+        "uf": "GO"
+    },
+    {
+        "code": "A509",
+        "name": "MONTE VERDE",
+        "lat": -22.86166666,
+        "lon": -46.04333333,
+        "uf": "MG"
+    },
+    {
+        "code": "A334",
+        "name": "MONTEIRO",
+        "lat": -7.89444444,
+        "lon": -37.12472221,
+        "uf": "PB"
+    },
+    {
+        "code": "B814",
+        "name": "MONTENEGRO",
+        "lat": -29.75861111,
+        "lon": -51.4361111,
+        "uf": "RS"
+    },
+    {
+        "code": "A506",
+        "name": "MONTES CLAROS",
+        "lat": -16.68638888,
+        "lon": -43.84388888,
+        "uf": "MG"
+    },
+    {
+        "code": "A332",
+        "name": "MORADA NOVA",
+        "lat": -5.0911111,
+        "lon": -38.36472222,
+        "uf": "CE"
+    },
+    {
+        "code": "A873",
+        "name": "MORRETES",
+        "lat": -25.50888888,
+        "lon": -48.80861111,
+        "uf": "PR"
+    },
+    {
+        "code": "A003",
+        "name": "MORRINHOS",
+        "lat": -17.74499999,
+        "lon": -49.10166666,
+        "uf": "GO"
+    },
+    {
+        "code": "A318",
+        "name": "MOSSORO",
+        "lat": -4.90416666,
+        "lon": -37.36694443,
+        "uf": "RN"
+    },
+    {
+        "code": "A878",
+        "name": "MOSTARDAS",
+        "lat": -31.24833333,
+        "lon": -50.90638888,
+        "uf": "RS"
+    },
+    {
+        "code": "A517",
+        "name": "MURIAE",
+        "lat": -21.105,
+        "lon": -42.37583332,
+        "uf": "MG"
+    },
+    {
+        "code": "A304",
+        "name": "NATAL",
+        "lat": -5.83722221,
+        "lon": -35.20805555,
+        "uf": "RN"
+    },
+    {
+        "code": "S735",
+        "name": "NAVIRAI (FAZ. SANTA HELENA DO PINDO)",
+        "lat": -22.899909,
+        "lon": -53.869219,
+        "uf": "MS"
+    },
+    {
+        "code": "A717",
+        "name": "NHUMIRIM",
+        "lat": -18.9886111,
+        "lon": -56.62277777,
+        "uf": "MS"
+    },
+    {
+        "code": "S724",
+        "name": "NIOAQUE (FAZ. BURITIZINHO DA DOMINGUENA)",
+        "lat": -21.067069,
+        "lon": -55.645874,
+        "uf": "MS"
+    },
+    {
+        "code": "A627",
+        "name": "NITEROI",
+        "lat": -22.86749999,
+        "lon": -43.10194444,
+        "uf": "RJ"
+    },
+    {
+        "code": "A453",
+        "name": "NOSSA SENHORA DA GLORIA",
+        "lat": -10.20777777,
+        "lon": -37.43194443,
+        "uf": "SE"
+    },
+    {
+        "code": "S712",
+        "name": "NOVA ALVORADA DO SUL",
+        "lat": -21.45083333,
+        "lon": -54.34194444,
+        "uf": "MS"
+    },
+    {
+        "code": "S713",
+        "name": "NOVA ANDRADINA",
+        "lat": -22.0786111,
+        "lon": -53.46583333,
+        "uf": "MS"
+    },
+    {
+        "code": "A842",
+        "name": "NOVA FATIMA",
+        "lat": -23.41527777,
+        "lon": -50.57777777,
+        "uf": "PR"
+    },
+    {
+        "code": "A624",
+        "name": "NOVA FRIBURGO - SALINAS",
+        "lat": -22.33472221,
+        "lon": -42.67694443,
+        "uf": "RJ"
+    },
+    {
+        "code": "A928",
+        "name": "NOVA MARINGA",
+        "lat": -13.0386111,
+        "lon": -57.09222221,
+        "uf": "MT"
+    },
+    {
+        "code": "A563",
+        "name": "NOVA PORTEIRINHA (JANAUBA)",
+        "lat": -15.80277777,
+        "lon": -43.29694444,
+        "uf": "MG"
+    },
+    {
+        "code": "A822",
+        "name": "NOVA TEBAS",
+        "lat": -24.43388888,
+        "lon": -51.95388888,
+        "uf": "PR"
+    },
+    {
+        "code": "A929",
+        "name": "NOVA UBIRATA",
+        "lat": -13.41111111,
+        "lon": -54.75222222,
+        "uf": "MT"
+    },
+    {
+        "code": "A144",
+        "name": "NOVO ARIPUANA",
+        "lat": -8.0911111,
+        "lon": -60.38055554,
+        "uf": "AM"
+    },
+    {
+        "code": "A816",
+        "name": "NOVO HORIZONTE",
+        "lat": -26.40638888,
+        "lon": -52.85027777,
+        "uf": "SC"
+    },
+    {
+        "code": "A235",
+        "name": "NOVO REPARTIMENTO",
+        "lat": -4.24388888,
+        "lon": -49.93944444,
+        "uf": "PA"
+    },
+    {
+        "code": "A232",
+        "name": "OBIDOS",
+        "lat": -1.88083332,
+        "lon": -55.51972221,
+        "uf": "PA"
+    },
+    {
+        "code": "A354",
+        "name": "OEIRAS",
+        "lat": -6.97416666,
+        "lon": -42.14694444,
+        "uf": "PI"
+    },
+    {
+        "code": "A242",
+        "name": "OIAPOQUE",
+        "lat": 3.81361111,
+        "lon": -51.8625,
+        "uf": "AP"
+    },
+    {
+        "code": "A570",
+        "name": "OLIVEIRA",
+        "lat": -20.715,
+        "lon": -44.86444444,
+        "uf": "MG"
+    },
+    {
+        "code": "A366",
+        "name": "OURICURI",
+        "lat": -7.88583333,
+        "lon": -40.10277777,
+        "uf": "PE"
+    },
+    {
+        "code": "A716",
+        "name": "OURINHOS",
+        "lat": -23.00055555,
+        "lon": -49.84333333,
+        "uf": "SP"
+    },
+    {
+        "code": "A513",
+        "name": "OURO BRANCO",
+        "lat": -20.55666666,
+        "lon": -43.75611111,
+        "uf": "MG"
+    },
+    {
+        "code": "A210",
+        "name": "PACAJA",
+        "lat": -3.8436111,
+        "lon": -50.63805555,
+        "uf": "PA"
+    },
+    {
+        "code": "A357",
+        "name": "PALMARES",
+        "lat": -8.66666666,
+        "lon": -35.56805554,
+        "uf": "PE"
+    },
+    {
+        "code": "A009",
+        "name": "PALMAS",
+        "lat": -10.14777777,
+        "lon": -48.31444444,
+        "uf": "TO"
+    },
+    {
+        "code": "A856",
+        "name": "PALMEIRA DAS MISSOES",
+        "lat": -27.92027777,
+        "lon": -53.31805554,
+        "uf": "RS"
+    },
+    {
+        "code": "A327",
+        "name": "PALMEIRA DOS INDIOS",
+        "lat": -9.42027777,
+        "lon": -36.62027777,
+        "uf": "AL"
+    },
+    {
+        "code": "A323",
+        "name": "PAO DE ACUCAR",
+        "lat": -9.74916666,
+        "lon": -37.43083332,
+        "uf": "AL"
+    },
+    {
+        "code": "A571",
+        "name": "PARACATU",
+        "lat": -17.24444444,
+        "lon": -46.88166666,
+        "uf": "MG"
+    },
+    {
+        "code": "A212",
+        "name": "PARAGOMINAS",
+        "lat": -2.90055555,
+        "lon": -47.49499999,
+        "uf": "PA"
+    },
+    {
+        "code": "S723",
+        "name": "PARAISO DAS AGUAS (FAZ. RANCHINHO)",
+        "lat": -19.233169,
+        "lon": -53.329431,
+        "uf": "MS"
+    },
+    {
+        "code": "A010",
+        "name": "PARANA",
+        "lat": -12.615,
+        "lon": -47.87194443,
+        "uf": "TO"
+    },
+    {
+        "code": "A710",
+        "name": "PARANAIBA",
+        "lat": -19.69555555,
+        "lon": -51.18166666,
+        "uf": "MS"
+    },
+    {
+        "code": "A850",
+        "name": "PARANAPOEMA",
+        "lat": -22.65833333,
+        "lon": -52.13444444,
+        "uf": "PR"
+    },
+    {
+        "code": "A915",
+        "name": "PARANATINGA",
+        "lat": -14.42138888,
+        "lon": -54.0361111,
+        "uf": "MT"
+    },
+    {
+        "code": "A047",
+        "name": "PARANOA (COOPA-DF)",
+        "lat": -16.01222222,
+        "lon": -47.5575,
+        "uf": "DF"
+    },
+    {
+        "code": "A619",
+        "name": "PARATY",
+        "lat": -23.2236111,
+        "lon": -44.72694443,
+        "uf": "RJ"
+    },
+    {
+        "code": "A027",
+        "name": "PARAUNA",
+        "lat": -16.9625,
+        "lon": -50.42555554,
+        "uf": "GO"
+    },
+    {
+        "code": "A123",
+        "name": "PARINTINS",
+        "lat": -2.63916666,
+        "lon": -56.75611111,
+        "uf": "AM"
+    },
+    {
+        "code": "A308",
+        "name": "PARNAIBA",
+        "lat": -3.08666666,
+        "lon": -41.78305554,
+        "uf": "PI"
+    },
+    {
+        "code": "B810",
+        "name": "PARQUE ELDORADO",
+        "lat": -30.09666666,
+        "lon": -51.67388888,
+        "uf": "RS"
+    },
+    {
+        "code": "A102",
+        "name": "PARQUE ESTADUAL CHANDLESS",
+        "lat": -9.35833333,
+        "lon": -69.92638888,
+        "uf": "AC"
+    },
+    {
+        "code": "A529",
+        "name": "PASSA QUATRO",
+        "lat": -22.39583333,
+        "lon": -44.96194444,
+        "uf": "MG"
+    },
+    {
+        "code": "A839",
+        "name": "PASSO FUNDO",
+        "lat": -28.22666666,
+        "lon": -52.40361111,
+        "uf": "RS"
+    },
+    {
+        "code": "A516",
+        "name": "PASSOS",
+        "lat": -20.74527777,
+        "lon": -46.63388888,
+        "uf": "MG"
+    },
+    {
+        "code": "A321",
+        "name": "PATOS",
+        "lat": -7.07972221,
+        "lon": -37.27277777,
+        "uf": "PB"
+    },
+    {
+        "code": "A562",
+        "name": "PATOS DE MINAS",
+        "lat": -18.52055554,
+        "lon": -46.44055555,
+        "uf": "MG"
+    },
+    {
+        "code": "A523",
+        "name": "PATROCINIO",
+        "lat": -18.99666666,
+        "lon": -46.98583333,
+        "uf": "MG"
+    },
+    {
+        "code": "A330",
+        "name": "PAULISTANA",
+        "lat": -8.13222221,
+        "lon": -41.14305555,
+        "uf": "PI"
+    },
+    {
+        "code": "A020",
+        "name": "PEDRO AFONSO",
+        "lat": -8.9686111,
+        "lon": -48.17722221,
+        "uf": "TO"
+    },
+    {
+        "code": "S714",
+        "name": "PEDRO GOMES",
+        "lat": -18.07277777,
+        "lon": -54.54888888,
+        "uf": "MS"
+    },
+    {
+        "code": "A018",
+        "name": "PEIXE",
+        "lat": -12.01527777,
+        "lon": -48.54444444,
+        "uf": "TO"
+    },
+    {
+        "code": "A307",
+        "name": "PETROLINA",
+        "lat": -9.38833333,
+        "lon": -40.52333332,
+        "uf": "PE"
+    },
+    {
+        "code": "A430",
+        "name": "PIATA",
+        "lat": -13.15555555,
+        "lon": -41.77416666,
+        "uf": "BA"
+    },
+    {
+        "code": "A610",
+        "name": "PICO DO COUTO",
+        "lat": -22.46472222,
+        "lon": -43.29138888,
+        "uf": "RJ"
+    },
+    {
+        "code": "A343",
+        "name": "PICOS",
+        "lat": -7.0711111,
+        "lon": -41.40416666,
+        "uf": "PI"
+    },
+    {
+        "code": "B823",
+        "name": "PINHEIRO MACHADO",
+        "lat": -31.57472221,
+        "lon": -53.38833333,
+        "uf": "RS"
+    },
+    {
+        "code": "A726",
+        "name": "PIRACICABA",
+        "lat": -22.70305555,
+        "lon": -47.62333332,
+        "uf": "SP"
+    },
+    {
+        "code": "A371",
+        "name": "PIRANHAS",
+        "lat": -9.62222221,
+        "lon": -37.76722221,
+        "uf": "AL"
+    },
+    {
+        "code": "A545",
+        "name": "PIRAPORA",
+        "lat": -17.258064,
+        "lon": -44.835556,
+        "uf": "MG"
+    },
+    {
+        "code": "A033",
+        "name": "PIRES DO RIO",
+        "lat": -17.30416666,
+        "lon": -48.28416666,
+        "uf": "GO"
+    },
+    {
+        "code": "A335",
+        "name": "PIRIPIRI",
+        "lat": -4.2761111,
+        "lon": -41.79444444,
+        "uf": "PI"
+    },
+    {
+        "code": "A051",
+        "name": "PIUM",
+        "lat": -10.47694443,
+        "lon": -49.62944443,
+        "uf": "TO"
+    },
+    {
+        "code": "A211",
+        "name": "PLACAS",
+        "lat": -3.86416666,
+        "lon": -54.21638888,
+        "uf": "PA"
+    },
+    {
+        "code": "A855",
+        "name": "PLANALTO",
+        "lat": -25.72194443,
+        "lon": -53.74805555,
+        "uf": "PR"
+    },
+    {
+        "code": "A419",
+        "name": "POCO VERDE",
+        "lat": -10.73805555,
+        "lon": -38.10833333,
+        "uf": "SE"
+    },
+    {
+        "code": "A560",
+        "name": "POMPEU",
+        "lat": -19.23249999,
+        "lon": -44.96416666,
+        "uf": "MG"
+    },
+    {
+        "code": "A703",
+        "name": "PONTA PORA",
+        "lat": -22.5525,
+        "lon": -55.71638888,
+        "uf": "MS"
+    },
+    {
+        "code": "A937",
+        "name": "PONTES E LACERDA",
+        "lat": -15.23444444,
+        "lon": -59.3461111,
+        "uf": "MT"
+    },
+    {
+        "code": "A005",
+        "name": "PORANGATU",
+        "lat": -13.30944444,
+        "lon": -49.11749999,
+        "uf": "GO"
+    },
+    {
+        "code": "B825",
+        "name": "PORTO ALEGRE - BELEM NOVO",
+        "lat": -30.1861111,
+        "lon": -51.17833332,
+        "uf": "RS"
+    },
+    {
+        "code": "A801",
+        "name": "PORTO ALEGRE - JARDIM BOTANICO",
+        "lat": -30.05361111,
+        "lon": -51.17472221,
+        "uf": "RS"
+    },
+    {
+        "code": "A245",
+        "name": "PORTO DE MOZ",
+        "lat": -1.82194443,
+        "lon": -52.11166666,
+        "uf": "PA"
+    },
+    {
+        "code": "A935",
+        "name": "PORTO ESTRELA",
+        "lat": -15.32472221,
+        "lon": -57.22583332,
+        "uf": "MT"
+    },
+    {
+        "code": "A244",
+        "name": "PORTO GRANDE",
+        "lat": 0.69416666,
+        "lon": -51.40388888,
+        "uf": "AP"
+    },
+    {
+        "code": "A723",
+        "name": "PORTO MURTINHO",
+        "lat": -21.70583333,
+        "lon": -57.88666666,
+        "uf": "MS"
+    },
+    {
+        "code": "S719",
+        "name": "PORTO MURTINHO (FAZ. SAO LUIS)",
+        "lat": -20.97305554,
+        "lon": -57.40111111,
+        "uf": "MS"
+    },
+    {
+        "code": "A427",
+        "name": "PORTO SEGURO",
+        "lat": -16.38888888,
+        "lon": -39.18249999,
+        "uf": "BA"
+    },
+    {
+        "code": "A925",
+        "name": "PORTO VELHO",
+        "lat": -8.7936111,
+        "lon": -63.84583333,
+        "uf": "RO"
+    },
+    {
+        "code": "A136",
+        "name": "PORTO WALTER",
+        "lat": -8.26722221,
+        "lon": -72.74777777,
+        "uf": "AC"
+    },
+    {
+        "code": "A017",
+        "name": "POSSE",
+        "lat": -14.08916666,
+        "lon": -46.36638888,
+        "uf": "GO"
+    },
+    {
+        "code": "A747",
+        "name": "PRADOPOLIS",
+        "lat": -21.33833333,
+        "lon": -48.11388888,
+        "uf": "SP"
+    },
+    {
+        "code": "A218",
+        "name": "PREGUICAS",
+        "lat": -2.59222221,
+        "lon": -42.7075,
+        "uf": "MA"
+    },
+    {
+        "code": "A126",
+        "name": "PRESIDENTE FIGUEIREDO",
+        "lat": -2.05666666,
+        "lon": -60.02583332,
+        "uf": "AM"
+    },
+    {
+        "code": "A622",
+        "name": "PRESIDENTE KENNEDY",
+        "lat": -21.10083333,
+        "lon": -41.03944444,
+        "uf": "ES"
+    },
+    {
+        "code": "A707",
+        "name": "PRESIDENTE PRUDENTE",
+        "lat": -22.11999999,
+        "lon": -51.40861111,
+        "uf": "SP"
+    },
+    {
+        "code": "A923",
+        "name": "PRIMAVERA DO LESTE",
+        "lat": -15.57999999,
+        "lon": -54.3811111,
+        "uf": "MT"
+    },
+    {
+        "code": "A637",
+        "name": "Paty do Alferes - Avelar",
+        "lat": -22.34722221,
+        "lon": -43.41777777,
+        "uf": "RJ"
+    },
+    {
+        "code": "A831",
+        "name": "QUARAI",
+        "lat": -30.3686111,
+        "lon": -56.43722221,
+        "uf": "RS"
+    },
+    {
+        "code": "A436",
+        "name": "QUEIMADAS",
+        "lat": -10.98472221,
+        "lon": -39.61694443,
+        "uf": "BA"
+    },
+    {
+        "code": "A916",
+        "name": "QUERENCIA",
+        "lat": -12.60305555,
+        "lon": -52.1625,
+        "uf": "MT"
+    },
+    {
+        "code": "A369",
+        "name": "QUIXADA",
+        "lat": -4.97888888,
+        "lon": -39.05722222,
+        "uf": "CE"
+    },
+    {
+        "code": "A325",
+        "name": "QUIXERAMOBIM",
+        "lat": -5.17444443,
+        "lon": -39.28944444,
+        "uf": "CE"
+    },
+    {
+        "code": "A718",
+        "name": "RANCHARIA",
+        "lat": -22.37277777,
+        "lon": -50.97472221,
+        "uf": "SP"
+    },
+    {
+        "code": "A870",
+        "name": "RANCHO QUEIMADO",
+        "lat": -27.6786111,
+        "lon": -49.04194444,
+        "uf": "SC"
+    },
+    {
+        "code": "A254",
+        "name": "REDENCAO",
+        "lat": -8.04333333,
+        "lon": -50.00694444,
+        "uf": "PA"
+    },
+    {
+        "code": "A766",
+        "name": "REGISTRO",
+        "lat": -24.53305554,
+        "lon": -47.86416666,
+        "uf": "SP"
+    },
+    {
+        "code": "A423",
+        "name": "REMANSO",
+        "lat": -9.62555554,
+        "lon": -42.07722221,
+        "uf": "BA"
+    },
+    {
+        "code": "A609",
+        "name": "RESENDE",
+        "lat": -22.45138888,
+        "lon": -44.44499999,
+        "uf": "RJ"
+    },
+    {
+        "code": "S715",
+        "name": "RIBAS DO RIO PARDO",
+        "lat": -20.46666666,
+        "lon": -53.76305555,
+        "uf": "MS"
+    },
+    {
+        "code": "S728",
+        "name": "RIBAS DO RIO PARDO (FAZ. CAMPO RICO)",
+        "lat": -21.189845,
+        "lon": -53.555382,
+        "uf": "MS"
+    },
+    {
+        "code": "A458",
+        "name": "RIBEIRA DO AMPARO",
+        "lat": -11.05861111,
+        "lon": -38.44416666,
+        "uf": "BA"
+    },
+    {
+        "code": "A104",
+        "name": "RIO BRANCO",
+        "lat": -9.95920402,
+        "lon": -67.86898266,
+        "uf": "AC"
+    },
+    {
+        "code": "A743",
+        "name": "RIO BRILHANTE",
+        "lat": -21.77499999,
+        "lon": -54.52805554,
+        "uf": "MS"
+    },
+    {
+        "code": "A626",
+        "name": "RIO CLARO",
+        "lat": -22.653579,
+        "lon": -44.040916,
+        "uf": "RJ"
+    },
+    {
+        "code": "A652",
+        "name": "RIO DE JANEIRO - FORTE DE COPACABANA",
+        "lat": -22.98833333,
+        "lon": -43.19055555,
+        "uf": "RJ"
+    },
+    {
+        "code": "A636",
+        "name": "RIO DE JANEIRO - JACAREPAGUA",
+        "lat": -22.93999999,
+        "lon": -43.40277777,
+        "uf": "RJ"
+    },
+    {
+        "code": "A621",
+        "name": "RIO DE JANEIRO - VILA MILITAR",
+        "lat": -22.86138888,
+        "lon": -43.41138888,
+        "uf": "RJ"
+    },
+    {
+        "code": "A602",
+        "name": "RIO DE JANEIRO-MARAMBAIA",
+        "lat": -23.05027777,
+        "lon": -43.59555555,
+        "uf": "RJ"
+    },
+    {
+        "code": "A861",
+        "name": "RIO DO CAMPO",
+        "lat": -26.93749999,
+        "lon": -50.14555555,
+        "uf": "SC"
+    },
+    {
+        "code": "A802",
+        "name": "RIO GRANDE",
+        "lat": -32.07888888,
+        "lon": -52.16777777,
+        "uf": "RS"
+    },
+    {
+        "code": "A862",
+        "name": "RIO NEGRINHO",
+        "lat": -26.2486111,
+        "lon": -49.57416666,
+        "uf": "SC"
+    },
+    {
+        "code": "A813",
+        "name": "RIO PARDO",
+        "lat": -29.87222221,
+        "lon": -52.38194443,
+        "uf": "RS"
+    },
+    {
+        "code": "A551",
+        "name": "RIO PARDO DE MINAS",
+        "lat": -15.72305554,
+        "lon": -42.43583333,
+        "uf": "MG"
+    },
+    {
+        "code": "A050",
+        "name": "RIO SONO",
+        "lat": -9.793363,
+        "lon": -47.132732,
+        "uf": "TO"
+    },
+    {
+        "code": "A125",
+        "name": "RIO URUBU",
+        "lat": -2.6336111,
+        "lon": -59.60055555,
+        "uf": "AM"
+    },
+    {
+        "code": "A025",
+        "name": "RIO VERDE",
+        "lat": -17.78527777,
+        "lon": -50.965,
+        "uf": "GO"
+    },
+    {
+        "code": "B819",
+        "name": "ROLANTE",
+        "lat": -29.65583333,
+        "lon": -50.61805554,
+        "uf": "RS"
+    },
+    {
+        "code": "A214",
+        "name": "RONDON DO PARA",
+        "lat": -4.82749999,
+        "lon": -48.1736111,
+        "uf": "PA"
+    },
+    {
+        "code": "A907",
+        "name": "RONDONOPOLIS",
+        "lat": -16.4625,
+        "lon": -54.58027777,
+        "uf": "MT"
+    },
+    {
+        "code": "A944",
+        "name": "ROSARIO OESTE",
+        "lat": -14.82888888,
+        "lon": -56.44194444,
+        "uf": "MT"
+    },
+    {
+        "code": "A134",
+        "name": "S. G. DA CACHOEIRA",
+        "lat": -0.12527777,
+        "lon": -67.06111111,
+        "uf": "AM"
+    },
+    {
+        "code": "A903",
+        "name": "S.J. DO RIO CLARO",
+        "lat": -13.45388888,
+        "lon": -56.67722221,
+        "uf": "MT"
+    },
+    {
+        "code": "A525",
+        "name": "SACRAMENTO",
+        "lat": -19.87527777,
+        "lon": -47.43416666,
+        "uf": "MG"
+    },
+    {
+        "code": "A370",
+        "name": "SALGUEIRO",
+        "lat": -8.05805555,
+        "lon": -39.0961111,
+        "uf": "PE"
+    },
+    {
+        "code": "A552",
+        "name": "SALINAS",
+        "lat": -16.16027777,
+        "lon": -42.31027777,
+        "uf": "MG"
+    },
+    {
+        "code": "A215",
+        "name": "SALINOPOLIS",
+        "lat": -0.61888888,
+        "lon": -47.35666666,
+        "uf": "PA"
+    },
+    {
+        "code": "A936",
+        "name": "SALTO DO CEU",
+        "lat": -15.12472221,
+        "lon": -58.12722221,
+        "uf": "MT"
+    },
+    {
+        "code": "A401",
+        "name": "SALVADOR",
+        "lat": -13.00555555,
+        "lon": -38.50583333,
+        "uf": "BA"
+    },
+    {
+        "code": "A456",
+        "name": "SALVADOR (RADIO FAROL)",
+        "lat": -12.80833333,
+        "lon": -38.49583333,
+        "uf": "BA"
+    },
+    {
+        "code": "A367",
+        "name": "SANTA CRUZ",
+        "lat": -6.22805554,
+        "lon": -36.02666666,
+        "uf": "RN"
+    },
+    {
+        "code": "A048",
+        "name": "SANTA FE DO ARAGUAIA",
+        "lat": -7.124191,
+        "lon": -48.781267,
+        "uf": "TO"
+    },
+    {
+        "code": "A803",
+        "name": "SANTA MARIA",
+        "lat": -29.72499999,
+        "lon": -53.72055554,
+        "uf": "RS"
+    },
+    {
+        "code": "A256",
+        "name": "SANTA MARIA DAS BARREIRAS",
+        "lat": -8.72972221,
+        "lon": -49.85638888,
+        "uf": "PA"
+    },
+    {
+        "code": "B816",
+        "name": "SANTA MARIA DO HERVAL",
+        "lat": -29.47916666,
+        "lon": -51.01333333,
+        "uf": "RS"
+    },
+    {
+        "code": "A630",
+        "name": "SANTA MARIA MADALENA",
+        "lat": -21.95055555,
+        "lon": -42.01027777,
+        "uf": "RJ"
+    },
+    {
+        "code": "A415",
+        "name": "SANTA RITA DE CASSIA",
+        "lat": -11.00333333,
+        "lon": -44.53638888,
+        "uf": "BA"
+    },
+    {
+        "code": "S716",
+        "name": "SANTA RITA DO PARDO",
+        "lat": -21.30583333,
+        "lon": -52.82027777,
+        "uf": "MS"
+    },
+    {
+        "code": "A810",
+        "name": "SANTA ROSA",
+        "lat": -27.89055555,
+        "lon": -54.47999999,
+        "uf": "RS"
+    },
+    {
+        "code": "A052",
+        "name": "SANTA ROSA DO TOCANTINS",
+        "lat": -11.42888888,
+        "lon": -48.18499999,
+        "uf": "TO"
+    },
+    {
+        "code": "A613",
+        "name": "SANTA TERESA",
+        "lat": -19.98833333,
+        "lon": -40.57944443,
+        "uf": "ES"
+    },
+    {
+        "code": "B830",
+        "name": "SANTA VITORIA DO PALMAR (CENTRO)",
+        "lat": -33.53166666,
+        "lon": -53.35027777,
+        "uf": "RS"
+    },
+    {
+        "code": "B829",
+        "name": "SANTA VITORIA DO PALMAR (RESERVA DO TAIM)",
+        "lat": -32.83583333,
+        "lon": -52.6436111,
+        "uf": "RS"
+    },
+    {
+        "code": "B821",
+        "name": "SANTANA DA BOA VISTA",
+        "lat": -30.85861111,
+        "lon": -53.15555555,
+        "uf": "RS"
+    },
+    {
+        "code": "A233",
+        "name": "SANTANA DO ARAGUAIA",
+        "lat": -9.34055555,
+        "lon": -50.35027777,
+        "uf": "PA"
+    },
+    {
+        "code": "A804",
+        "name": "SANTANA DO LIVRAMENTO",
+        "lat": -30.75055555,
+        "lon": -55.40138888,
+        "uf": "RS"
+    },
+    {
+        "code": "A250",
+        "name": "SANTAREM",
+        "lat": -2.5025,
+        "lon": -54.72027777,
+        "uf": "PA"
+    },
+    {
+        "code": "A833",
+        "name": "SANTIAGO",
+        "lat": -29.191599,
+        "lon": -54.885653,
+        "uf": "RS"
+    },
+    {
+        "code": "A931",
+        "name": "SANTO ANTONIO DO LESTE",
+        "lat": -14.92499999,
+        "lon": -53.88444444,
+        "uf": "MT"
+    },
+    {
+        "code": "A805",
+        "name": "SANTO AUGUSTO",
+        "lat": -27.85444444,
+        "lon": -53.7911111,
+        "uf": "RS"
+    },
+    {
+        "code": "A830",
+        "name": "SAO BORJA",
+        "lat": -28.65,
+        "lon": -56.01638888,
+        "uf": "RS"
+    },
+    {
+        "code": "A711",
+        "name": "SAO CARLOS",
+        "lat": -21.98027777,
+        "lon": -47.88388888,
+        "uf": "SP"
+    },
+    {
+        "code": "A216",
+        "name": "SAO FELIX DO XINGU",
+        "lat": -6.63972221,
+        "lon": -51.95694444,
+        "uf": "PA"
+    },
+    {
+        "code": "B820",
+        "name": "SAO FRANCISCO DE PAULA",
+        "lat": -29.44222221,
+        "lon": -50.56027777,
+        "uf": "RS"
+    },
+    {
+        "code": "A832",
+        "name": "SAO GABRIEL",
+        "lat": -30.34138888,
+        "lon": -54.31083333,
+        "uf": "RS"
+    },
+    {
+        "code": "A732",
+        "name": "SAO GABRIEL DO OESTE",
+        "lat": -19.42027777,
+        "lon": -54.55305555,
+        "uf": "MS"
+    },
+    {
+        "code": "A333",
+        "name": "SAO GONCALO",
+        "lat": -6.83583333,
+        "lon": -38.31166666,
+        "uf": "PB"
+    },
+    {
+        "code": "A514",
+        "name": "SAO JOAO DEL REI",
+        "lat": -21.10638888,
+        "lon": -44.25083333,
+        "uf": "MG"
+    },
+    {
+        "code": "A331",
+        "name": "SAO JOAO DO PIAUI",
+        "lat": -8.36444444,
+        "lon": -42.2525,
+        "uf": "PI"
+    },
+    {
+        "code": "A815",
+        "name": "SAO JOAQUIM",
+        "lat": -28.27555554,
+        "lon": -49.93472221,
+        "uf": "SC"
+    },
+    {
+        "code": "A942",
+        "name": "SAO JOSE DO XINGU",
+        "lat": -10.48416666,
+        "lon": -52.37249999,
+        "uf": "MT"
+    },
+    {
+        "code": "A829",
+        "name": "SAO JOSE DOS AUSENTES",
+        "lat": -28.7486111,
+        "lon": -50.05777777,
+        "uf": "RS"
+    },
+    {
+        "code": "A203",
+        "name": "SAO LUIS",
+        "lat": -2.52666666,
+        "lon": -44.21361111,
+        "uf": "MA"
+    },
+    {
+        "code": "A356",
+        "name": "SAO LUIS DO QUITUNDE",
+        "lat": -9.28749999,
+        "lon": -35.56583333,
+        "uf": "AL"
+    },
+    {
+        "code": "A740",
+        "name": "SAO LUIZ DO PARAITINGA",
+        "lat": -23.22833332,
+        "lon": -45.41694443,
+        "uf": "SP"
+    },
+    {
+        "code": "A852",
+        "name": "SAO LUIZ GONZAGA",
+        "lat": -28.41722221,
+        "lon": -54.9625,
+        "uf": "RS"
+    },
+    {
+        "code": "A616",
+        "name": "SAO MATEUS",
+        "lat": -18.6761111,
+        "lon": -39.86416666,
+        "uf": "ES"
+    },
+    {
+        "code": "A874",
+        "name": "SAO MATEUS DO SUL",
+        "lat": -25.83555555,
+        "lon": -50.36888888,
+        "uf": "PR"
+    },
+    {
+        "code": "A715",
+        "name": "SAO MIGUEL ARCANJO",
+        "lat": -23.89083333,
+        "lon": -47.99916666,
+        "uf": "SP"
+    },
+    {
+        "code": "A031",
+        "name": "SAO MIGUEL DO ARAGUAIA",
+        "lat": -12.82055554,
+        "lon": -50.33583333,
+        "uf": "GO"
+    },
+    {
+        "code": "A857",
+        "name": "SAO MIGUEL DO OESTE",
+        "lat": -26.78638888,
+        "lon": -53.51416666,
+        "uf": "SC"
+    },
+    {
+        "code": "A771",
+        "name": "SAO PAULO - INTERLAGOS",
+        "lat": -23.72444443,
+        "lon": -46.67749999,
+        "uf": "SP"
+    },
+    {
+        "code": "A701",
+        "name": "SAO PAULO - MIRANTE",
+        "lat": -23.4962888,
+        "lon": -46.6200666,
+        "uf": "SP"
+    },
+    {
+        "code": "A345",
+        "name": "SAO RAIMUNDO NONATO",
+        "lat": -9.03305554,
+        "lon": -42.70111111,
+        "uf": "PI"
+    },
+    {
+        "code": "A547",
+        "name": "SAO ROMAO",
+        "lat": -16.36277777,
+        "lon": -45.12388888,
+        "uf": "MG"
+    },
+    {
+        "code": "A561",
+        "name": "SAO SEBASTIAO DO PARAISO",
+        "lat": -20.91,
+        "lon": -47.11416666,
+        "uf": "MG"
+    },
+    {
+        "code": "A011",
+        "name": "SAO SIMAO",
+        "lat": -18.96916666,
+        "lon": -50.63333333,
+        "uf": "GO"
+    },
+    {
+        "code": "A770",
+        "name": "SAO SIMAO",
+        "lat": -21.46111111,
+        "lon": -47.57944443,
+        "uf": "SP"
+    },
+    {
+        "code": "A889",
+        "name": "SAO VICENTE DO SUL",
+        "lat": -29.70222222,
+        "lon": -54.69444444,
+        "uf": "RS"
+    },
+    {
+        "code": "A911",
+        "name": "SAPEZAL",
+        "lat": -13.30388888,
+        "lon": -58.76333333,
+        "uf": "MT"
+    },
+    {
+        "code": "B809",
+        "name": "SAPUCAIA DO SUL",
+        "lat": -29.81388888,
+        "lon": -51.15666666,
+        "uf": "RS"
+    },
+    {
+        "code": "A667",
+        "name": "SAQUAREMA - SAMPAIO CORREIA",
+        "lat": -22.8711111,
+        "lon": -42.60888888,
+        "uf": "RJ"
+    },
+    {
+        "code": "A428",
+        "name": "SENHOR DO BONFIM",
+        "lat": -10.44305555,
+        "lon": -40.14833333,
+        "uf": "BA"
+    },
+    {
+        "code": "A894",
+        "name": "SERAFINA CORREA",
+        "lat": -28.70472222,
+        "lon": -51.87083332,
+        "uf": "RS"
+    },
+    {
+        "code": "A601",
+        "name": "SEROPEDICA-ECOLOGIA AGRICOLA",
+        "lat": -22.75777777,
+        "lon": -43.68472221,
+        "uf": "RJ"
+    },
+    {
+        "code": "A522",
+        "name": "SERRA DOS AIMORES",
+        "lat": -17.79888888,
+        "lon": -40.25,
+        "uf": "MG"
+    },
+    {
+        "code": "A230",
+        "name": "SERRA DOS CARAJAS",
+        "lat": -6.07749999,
+        "lon": -50.14222221,
+        "uf": "PA"
+    },
+    {
+        "code": "A943",
+        "name": "SERRA NOVA DOURADA",
+        "lat": -11.98777777,
+        "lon": -51.4261111,
+        "uf": "MT"
+    },
+    {
+        "code": "A350",
+        "name": "SERRA TALHADA",
+        "lat": -7.95416666,
+        "lon": -38.29499999,
+        "uf": "PE"
+    },
+    {
+        "code": "A441",
+        "name": "SERRINHA",
+        "lat": -11.66472222,
+        "lon": -39.02305554,
+        "uf": "BA"
+    },
+    {
+        "code": "B811",
+        "name": "SERTAO SANTANA",
+        "lat": -30.49416666,
+        "lon": -51.66333333,
+        "uf": "RS"
+    },
+    {
+        "code": "A569",
+        "name": "SETE LAGOAS",
+        "lat": -19.45527777,
+        "lon": -44.17333332,
+        "uf": "MG"
+    },
+    {
+        "code": "A751",
+        "name": "SETE QUEDAS",
+        "lat": -23.96694443,
+        "lon": -55.02416666,
+        "uf": "MS"
+    },
+    {
+        "code": "A754",
+        "name": "SIDROLANDIA",
+        "lat": -20.98166666,
+        "lon": -54.97194443,
+        "uf": "MS"
+    },
+    {
+        "code": "A659",
+        "name": "SILVA JARDIM",
+        "lat": -22.64583333,
+        "lon": -42.41555555,
+        "uf": "RJ"
+    },
+    {
+        "code": "A037",
+        "name": "SILVANIA",
+        "lat": -16.67972221,
+        "lon": -48.61805554,
+        "uf": "GO"
+    },
+    {
+        "code": "A917",
+        "name": "SINOP",
+        "lat": -11.98222221,
+        "lon": -55.56611111,
+        "uf": "MT"
+    },
+    {
+        "code": "A306",
+        "name": "SOBRAL",
+        "lat": -3.74805555,
+        "lon": -40.34583333,
+        "uf": "CE"
+    },
+    {
+        "code": "A837",
+        "name": "SOLEDADE",
+        "lat": -28.859211,
+        "lon": -52.542387,
+        "uf": "RS"
+    },
+    {
+        "code": "A761",
+        "name": "SONORA",
+        "lat": -17.63527777,
+        "lon": -54.76055555,
+        "uf": "MS"
+    },
+    {
+        "code": "A904",
+        "name": "SORRISO",
+        "lat": -12.555,
+        "lon": -55.72277777,
+        "uf": "MT"
+    },
+    {
+        "code": "A227",
+        "name": "SOURE",
+        "lat": -0.72777777,
+        "lon": -48.51583333,
+        "uf": "PA"
+    },
+    {
+        "code": "A328",
+        "name": "SURUBIM",
+        "lat": -7.84249999,
+        "lon": -35.79027777,
+        "uf": "PE"
+    },
+    {
+        "code": "A899",
+        "name": "Santa Vitoria do Palmar - Barra do Chui",
+        "lat": -33.74222221,
+        "lon": -53.37222221,
+        "uf": "RS"
+    },
+    {
+        "code": "A902",
+        "name": "TANGARA DA SERRA",
+        "lat": -14.65,
+        "lon": -57.43166666,
+        "uf": "MT"
+    },
+    {
+        "code": "A324",
+        "name": "TAUA",
+        "lat": -6.01749999,
+        "lon": -40.28138888,
+        "uf": "CE"
+    },
+    {
+        "code": "A728",
+        "name": "TAUBATE",
+        "lat": -23.04166666,
+        "lon": -45.52083332,
+        "uf": "SP"
+    },
+    {
+        "code": "A527",
+        "name": "TEOFILO OTONI",
+        "lat": -17.89277777,
+        "lon": -41.51555555,
+        "uf": "MG"
+    },
+    {
+        "code": "A312",
+        "name": "TERESINA",
+        "lat": -5.03472221,
+        "lon": -42.80138888,
+        "uf": "PI"
+    },
+    {
+        "code": "A618",
+        "name": "TERESOPOLIS-PARQUE NACIONAL",
+        "lat": -22.4486111,
+        "lon": -42.98694444,
+        "uf": "RJ"
+    },
+    {
+        "code": "A368",
+        "name": "TIANGUA",
+        "lat": -3.73222221,
+        "lon": -41.01194444,
+        "uf": "CE"
+    },
+    {
+        "code": "A511",
+        "name": "TIMOTEO",
+        "lat": -19.57388888,
+        "lon": -42.62249999,
+        "uf": "MG"
+    },
+    {
+        "code": "A213",
+        "name": "TOME ACU",
+        "lat": -2.59249999,
+        "lon": -48.36055555,
+        "uf": "PA"
+    },
+    {
+        "code": "B841",
+        "name": "TORRES",
+        "lat": -29.41361111,
+        "lon": -49.80361111,
+        "uf": "RS"
+    },
+    {
+        "code": "A834",
+        "name": "TRAMANDAI",
+        "lat": -30.01027777,
+        "lon": -50.13583333,
+        "uf": "RS"
+    },
+    {
+        "code": "A704",
+        "name": "TRES LAGOAS",
+        "lat": -20.79499999,
+        "lon": -51.71333333,
+        "uf": "MS"
+    },
+    {
+        "code": "A528",
+        "name": "TRES MARIAS",
+        "lat": -18.20083333,
+        "lon": -45.45972222,
+        "uf": "MG"
+    },
+    {
+        "code": "A625",
+        "name": "TRES RIOS",
+        "lat": -22.09833333,
+        "lon": -43.20833333,
+        "uf": "RJ"
+    },
+    {
+        "code": "A234",
+        "name": "TUCUMA",
+        "lat": -6.74333333,
+        "lon": -51.14194444,
+        "uf": "PA"
+    },
+    {
+        "code": "A229",
+        "name": "TUCURUI",
+        "lat": -3.82277777,
+        "lon": -49.67499999,
+        "uf": "PA"
+    },
+    {
+        "code": "A768",
+        "name": "TUPA",
+        "lat": -21.92722221,
+        "lon": -50.49027777,
+        "uf": "SP"
+    },
+    {
+        "code": "A886",
+        "name": "TUPANCIRETA",
+        "lat": -29.08944444,
+        "lon": -53.82666666,
+        "uf": "RS"
+    },
+    {
+        "code": "A219",
+        "name": "TURIACU",
+        "lat": -1.66111111,
+        "lon": -45.37249999,
+        "uf": "MA"
+    },
+    {
+        "code": "A568",
+        "name": "UBERABA",
+        "lat": -19.71,
+        "lon": -47.96194444,
+        "uf": "MG"
+    },
+    {
+        "code": "A507",
+        "name": "UBERLANDIA",
+        "lat": -18.91694443,
+        "lon": -48.25555555,
+        "uf": "MG"
+    },
+    {
+        "code": "A437",
+        "name": "UNA",
+        "lat": -15.28027777,
+        "lon": -39.09138888,
+        "uf": "BA"
+    },
+    {
+        "code": "A542",
+        "name": "UNAI",
+        "lat": -16.55416666,
+        "lon": -46.88194443,
+        "uf": "MG"
+    },
+    {
+        "code": "A124",
+        "name": "URUCARA",
+        "lat": -2.53472221,
+        "lon": -57.75805555,
+        "uf": "AM"
+    },
+    {
+        "code": "A346",
+        "name": "URUCUI",
+        "lat": -7.44138888,
+        "lon": -44.34499999,
+        "uf": "PI"
+    },
+    {
+        "code": "A809",
+        "name": "URUGUAIANA",
+        "lat": -29.83999999,
+        "lon": -57.08194443,
+        "uf": "RS"
+    },
+    {
+        "code": "A814",
+        "name": "URUSSANGA",
+        "lat": -28.53249999,
+        "lon": -49.31527777,
+        "uf": "SC"
+    },
+    {
+        "code": "A880",
+        "name": "VACARIA",
+        "lat": -28.51361111,
+        "lon": -50.88277777,
+        "uf": "RS"
+    },
+    {
+        "code": "A611",
+        "name": "VALENCA",
+        "lat": -22.35805555,
+        "lon": -43.69555555,
+        "uf": "RJ"
+    },
+    {
+        "code": "A444",
+        "name": "VALENCA",
+        "lat": -13.3436111,
+        "lon": -39.12666666,
+        "uf": "BA"
+    },
+    {
+        "code": "A363",
+        "name": "VALENCA DO PIAUI",
+        "lat": -6.4236111,
+        "lon": -41.74888888,
+        "uf": "PI"
+    },
+    {
+        "code": "A734",
+        "name": "VALPARAISO",
+        "lat": -21.31916666,
+        "lon": -50.93027777,
+        "uf": "SP"
+    },
+    {
+        "code": "A515",
+        "name": "VARGINHA",
+        "lat": -21.56638888,
+        "lon": -45.40416666,
+        "uf": "MG"
+    },
+    {
+        "code": "A633",
+        "name": "VENDA NOVA DO IMIGRANTE",
+        "lat": -20.38555555,
+        "lon": -41.18999999,
+        "uf": "ES"
+    },
+    {
+        "code": "A872",
+        "name": "VENTANIA",
+        "lat": -24.28027777,
+        "lon": -50.21027777,
+        "uf": "PR"
+    },
+    {
+        "code": "A510",
+        "name": "VICOSA",
+        "lat": -20.7625,
+        "lon": -42.86388888,
+        "uf": "MG"
+    },
+    {
+        "code": "A922",
+        "name": "VILA BELA DA SANTISSIMA TRINDADE",
+        "lat": -15.06277777,
+        "lon": -59.87305554,
+        "uf": "MT"
+    },
+    {
+        "code": "A634",
+        "name": "VILA VELHA",
+        "lat": -20.46694443,
+        "lon": -40.40388888,
+        "uf": "ES"
+    },
+    {
+        "code": "A938",
+        "name": "VILHENA",
+        "lat": -12.73499999,
+        "lon": -60.15777777,
+        "uf": "RO"
+    },
+    {
+        "code": "A612",
+        "name": "VITORIA",
+        "lat": -20.27083332,
+        "lon": -40.30583333,
+        "uf": "ES"
+    },
+    {
+        "code": "A414",
+        "name": "VITORIA DA CONQUISTA",
+        "lat": -14.88638888,
+        "lon": -40.80138888,
+        "uf": "BA"
+    },
+    {
+        "code": "A858",
+        "name": "XANXERE",
+        "lat": -26.9386111,
+        "lon": -52.39805555,
+        "uf": "SC"
+    },
+    {
+        "code": "A247",
+        "name": "XINGUARA",
+        "lat": -7.11055555,
+        "lon": -49.9261111,
+        "uf": "PA"
+    },
+    {
+        "code": "A255",
+        "name": "ZE DOCA",
+        "lat": -3.26916666,
+        "lon": -45.65111111,
+        "uf": "MA"
+    }
+]
