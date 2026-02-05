@@ -2,7 +2,7 @@
 name=HidroCalc
 qgisMinimumVersion=3.0
 description=Calcula lenght(@geometry) em metros na coluna L da camada ativa.
-version=1.2.8
+version=1.2.9
 author=Lucas Palheta
 email=lucasps.informes@gmail.com
 about=Plugin para cálculos hidráulicos e modelagem no QGIS.

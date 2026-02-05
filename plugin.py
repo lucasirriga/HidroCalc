@@ -65,7 +65,6 @@ class HidroCalcPlugin:
         self.toolbar = self.iface.addToolBar("HidroCalc")
         self.toolbar.setObjectName("HidroCalcToolbar")
         
-        self._init_actions()
         
         self._init_selection_label()
         
